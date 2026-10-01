@@ -2,9 +2,9 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-# -----------------------------------------
+ 
 # PAGE CONFIGURATION
-# -----------------------------------------
+ 
 
 st.set_page_config(
     page_title="Sales Visualization Dashboard",
@@ -12,16 +12,16 @@ st.set_page_config(
     layout="wide"
 )
 
-# -----------------------------------------
+ 
 # TITLE
-# -----------------------------------------
+ 
 
 st.title("📊 Sales Visualization Dashboard")
 st.write("Interactive dashboard showing different types of data visualizations.")
 
-# -----------------------------------------
+ 
 # SAMPLE DATA
-# -----------------------------------------
+ 
 
 # Product sales data
 product_data = pd.DataFrame({
@@ -65,9 +65,9 @@ region_data = pd.DataFrame({
     "Food": [20000, 25000, 30000, 35000]
 })
 
-# -----------------------------------------
+ 
 # KPI CARDS
-# -----------------------------------------
+ 
 
 total_sales = product_data["Sales"].sum()
 highest_product = product_data.loc[
@@ -95,9 +95,9 @@ col3.metric(
 
 st.divider()
 
-# -----------------------------------------
+ 
 # ROW 1 - BAR CHART + LINE CHART
-# -----------------------------------------
+ 
 
 col1, col2 = st.columns(2)
 
@@ -144,9 +144,9 @@ with col2:
     )
 
 
-# -----------------------------------------
+ 
 # ROW 2 - SCATTER + PIE CHART
-# -----------------------------------------
+ 
 
 col1, col2 = st.columns(2)
 
@@ -187,9 +187,9 @@ with col2:
     )
 
 
-# -----------------------------------------
+ 
 # ROW 3 - HISTOGRAM + STACKED BAR
-# -----------------------------------------
+ 
 
 col1, col2 = st.columns(2)
 
@@ -237,9 +237,9 @@ with col2:
     )
 
 
-# -----------------------------------------
+ 
 # DATA TABLE
-# -----------------------------------------
+ 
 
 st.divider()
 
@@ -250,9 +250,9 @@ st.dataframe(
     use_container_width=True
 )
 
-# -----------------------------------------
+ 
 # FOOTER
-# -----------------------------------------
+ 
 
 st.divider()
 
