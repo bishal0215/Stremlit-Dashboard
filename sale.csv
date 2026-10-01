@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer,Category,Product,Region,Quantity,Unit_Price,Sales,Profit
+ORD00001,2025-03-13,Anita Gurung,Electronics,Wireless Mouse,South,5,1200,6000,803.26
+ORD00002,2025-02-17,Suman KC,Electronics,Headphones,West,7,3200,22400,1948.63
+ORD00003,2025-11-29,Rekha Basnet,Clothing,Sports Shoes,North,1,3800,3800,773.2
+ORD00004,2025-01-04,Mina Rai,Furniture,Folding Table,North,5,5500,27500,7097.05
+ORD00005,2025-06-22,Anita Gurung,Stationery,Marker Pack,East,3,350,1050,133.74
+ORD00006,2025-11-06,Dipak Bhandari,Groceries,Rice 5kg,East,6,650,3900,1039.15
+ORD00007,2025-07-13,Ramesh Karki,Groceries,Biscuit Pack,South,2,180,360,105.87
+ORD00008,2025-12-27,Ramesh Karki,Stationery,Calculator,East,6,900,5400,1117.89
+ORD00009,2025-02-21,Prakash Joshi,Furniture,Bookshelf,Central,2,7000,14000,3754.38
+ORD00010,2025-04-18,Dipak Bhandari,Groceries,Tea Pack,East,3,450,1350,217.94
+ORD00011,2025-07-14,Dipak Bhandari,Clothing,Jeans,South,4,2200,8800,1020.35
+ORD00012,2025-01-17,Rajesh Poudel,Furniture,Bookshelf,North,1,7000,7000,912.73
+ORD00013,2025-10-18,Rajesh Poudel,Stationery,Notebook,West,4,180,720,202.24
+ORD00014,2025-03-13,Puja Shrestha,Groceries,Sugar 2kg,South,8,240,1920,213.95
+ORD00015,2025-07-24,Sabina Magar,Clothing,Jacket,West,7,4500,31500,8741.91
+ORD00016,2025-01-25,Anita Gurung,Furniture,Office Desk,West,8,15000,120000,12000.01
+ORD00017,2025-11-02,Manoj Gautam,Furniture,Folding Table,South,2,5500,11000,1811.14
+ORD00018,2025-02-28,Rekha Basnet,Stationery,Calculator,Central,1,900,900,206.7
+ORD00019,2025-08-21,Aarav Sharma,Stationery,Notebook,Central,5,180,900,158.08
+ORD00020,2025-06-02,Ashok Oli,Clothing,Jeans,South,2,2200,4400,1194.66
+ORD00021,2025-10-04,Ashok Oli,Furniture,Study Table,East,6,12000,72000,17838.17
+ORD00022,2025-07-05,Nisha Tamang,Clothing,Jacket,West,8,4500,36000,3034.26
+ORD00023,2025-09-06,Ramesh Karki,Electronics,Keyboard,South,2,1800,3600,355.84
+ORD00024,2025-03-26,Dipak Bhandari,Furniture,Study Table,South,8,12000,96000,27677.44
+ORD00025,2025-12-20,Suman KC,Clothing,Formal Shirt,Central,4,2500,10000,2843.61
+ORD00026,2025-08-20,Anita Gurung,Groceries,Tea Pack,West,8,450,3600,1000.49
+ORD00027,2025-10-11,Puja Shrestha,Furniture,Office Chair,South,6,8500,51000,4316.0
+ORD00028,2025-01-31,Puja Shrestha,Furniture,Office Chair,East,2,8500,17000,4007.33
+ORD00029,2025-05-23,Sarita Bhattarai,Electronics,USB Hub,West,2,900,1800,347.61
+ORD00030,2025-08-31,Kiran Lama,Clothing,Jeans,West,8,2200,17600,2348.89
+ORD00031,2025-07-30,Manoj Gautam,Electronics,Wireless Mouse,East,7,1200,8400,1326.74
+ORD00032,2025-02-25,Puja Shrestha,Electronics,Wireless Mouse,West,7,1200,8400,2017.74
+ORD00033,2025-04-04,Dipak Bhandari,Furniture,Office Desk,North,8,15000,120000,13300.81
+ORD00034,2025-10-09,Anita Gurung,Furniture,Office Chair,East,8,8500,68000,17528.01
+ORD00035,2025-05-02,Mina Rai,Clothing,T-Shirt,North,2,850,1700,482.46
+ORD00036,2025-01-31,Mina Rai,Groceries,Sugar 2kg,North,4,240,960,259.41
+ORD00037,2025-08-21,Nisha Tamang,Electronics,Bluetooth Speaker,North,5,2500,12500,3547.92
+ORD00038,2025-04-22,Sita Thapa,Clothing,Formal Shirt,South,3,2500,7500,913.33
+ORD00039,2025-10-27,Sarita Bhattarai,Clothing,T-Shirt,South,6,850,5100,472.14
+ORD00040,2025-02-11,Mina Rai,Clothing,Jeans,East,1,2200,2200,641.02
+ORD00041,2025-10-19,Puja Shrestha,Clothing,T-Shirt,South,4,850,3400,574.02
+ORD00042,2025-10-26,Sunil Khadka,Clothing,T-Shirt,South,2,850,1700,292.79
+ORD00043,2025-06-10,Puja Shrestha,Stationery,Marker Pack,Central,4,350,1400,318.28
+ORD00044,2025-02-07,Aarav Sharma,Groceries,Cooking Oil,North,5,320,1600,288.94
+ORD00045,2025-04-20,Ashok Oli,Clothing,Sports Shoes,Central,2,3800,7600,730.49
+ORD00046,2025-07-09,Nisha Tamang,Furniture,Bookshelf,West,2,7000,14000,3828.15
+ORD00047,2025-12-01,Ashok Oli,Groceries,Biscuit Pack,East,5,180,900,193.11
+ORD00048,2025-03-10,Dipak Bhandari,Clothing,Jacket,East,2,4500,9000,2579.08
+ORD00049,2025-11-06,Suman KC,Electronics,Headphones,Central,3,3200,9600,1343.2
+ORD00050,2025-01-27,Ramesh Karki,Furniture,Bookshelf,North,8,7000,56000,7573.81
+ORD00051,2025-03-08,Dipak Bhandari,Stationery,Notebook,West,1,180,180,27.61
+ORD00052,2025-02-27,Ramesh Karki,Groceries,Biscuit Pack,West,7,180,1260,256.28
+ORD00053,2025-03-17,Kiran Lama,Clothing,T-Shirt,West,6,850,5100,1061.58
+ORD00054,2025-01-21,Sabina Magar,Electronics,USB Hub,West,6,900,5400,1499.99
+ORD00055,2025-07-28,Bina Acharya,Furniture,Office Chair,West,6,8500,51000,12832.9
+ORD00056,2025-01-13,Mina Rai,Furniture,Study Table,Central,3,12000,36000,9860.82
+ORD00057,2025-12-26,Anita Gurung,Groceries,Cooking Oil,North,5,320,1600,184.04
+ORD00058,2025-08-24,Sabina Magar,Electronics,Bluetooth Speaker,Central,4,2500,10000,1239.06
+ORD00059,2025-07-24,Rajesh Poudel,Furniture,Study Table,Central,1,12000,12000,2702.49
+ORD00060,2025-07-24,Rekha Basnet,Electronics,USB Hub,Central,6,900,5400,1194.08
+ORD00061,2025-05-16,Sita Thapa,Electronics,Wireless Mouse,East,5,1200,6000,715.71
+ORD00062,2025-06-10,Kiran Lama,Clothing,Formal Shirt,South,6,2500,15000,3604.2
+ORD00063,2025-04-08,Dipak Bhandari,Clothing,T-Shirt,East,7,850,5950,1653.45
+ORD00064,2025-02-05,Rajesh Poudel,Groceries,Rice 5kg,South,4,650,2600,416.33
+ORD00065,2025-12-08,Kiran Lama,Stationery,Notebook,Central,5,180,900,172.41
+ORD00066,2025-12-07,Prakash Joshi,Groceries,Tea Pack,West,3,450,1350,164.98
+ORD00067,2025-01-01,Nisha Tamang,Clothing,Sports Shoes,Central,5,3800,19000,3217.39
+ORD00068,2025-08-15,Suman KC,Furniture,Folding Table,South,6,5500,33000,6015.81
+ORD00069,2025-12-06,Bina Acharya,Groceries,Cooking Oil,Central,2,320,640,91.16
+ORD00070,2025-04-12,Bikash Adhikari,Electronics,Keyboard,East,5,1800,9000,1164.79
+ORD00071,2025-02-07,Manoj Gautam,Electronics,Keyboard,North,8,1800,14400,3088.52
+ORD00072,2025-05-05,Bikash Adhikari,Clothing,Jeans,East,7,2200,15400,2906.95
+ORD00073,2025-12-23,Ashok Oli,Electronics,Bluetooth Speaker,North,4,2500,10000,1186.95
+ORD00074,2025-03-04,Manoj Gautam,Electronics,Headphones,West,4,3200,12800,3607.6
+ORD00075,2025-08-15,Bina Acharya,Groceries,Biscuit Pack,South,6,180,1080,312.13
+ORD00076,2025-09-01,Manoj Gautam,Groceries,Biscuit Pack,Central,8,180,1440,399.44
+ORD00077,2025-05-21,Manoj Gautam,Furniture,Bookshelf,East,8,7000,56000,12201.54
+ORD00078,2025-10-04,Ramesh Karki,Stationery,Pen Set,West,5,250,1250,192.36
+ORD00079,2025-12-28,Suman KC,Furniture,Study Table,East,7,12000,84000,19544.19
+ORD00080,2025-08-01,Sita Thapa,Groceries,Sugar 2kg,West,6,240,1440,287.1
+ORD00081,2025-10-22,Prakash Joshi,Groceries,Sugar 2kg,North,1,240,240,64.44
+ORD00082,2025-08-03,Rekha Basnet,Electronics,USB Hub,South,5,900,4500,1105.94
+ORD00083,2025-08-12,Sarita Bhattarai,Clothing,Jeans,East,8,2200,17600,2257.6
+ORD00084,2025-08-28,Bikash Adhikari,Groceries,Tea Pack,South,7,450,3150,753.86
+ORD00085,2025-12-06,Aarav Sharma,Clothing,T-Shirt,East,7,850,5950,1250.79
+ORD00086,2025-05-14,Prakash Joshi,Groceries,Cooking Oil,Central,8,320,2560,307.15
+ORD00087,2025-07-14,Dipak Bhandari,Furniture,Folding Table,North,6,5500,33000,5090.25
+ORD00088,2025-10-04,Sita Thapa,Stationery,Notebook,Central,8,180,1440,121.34
+ORD00089,2025-05-07,Suman KC,Furniture,Office Chair,East,1,8500,8500,2090.42
+ORD00090,2025-12-09,Anita Gurung,Clothing,Jeans,South,4,2200,8800,948.36
+ORD00091,2025-03-27,Bina Acharya,Furniture,Folding Table,South,5,5500,27500,6839.73
+ORD00092,2025-01-14,Nisha Tamang,Electronics,Keyboard,South,5,1800,9000,934.04
+ORD00093,2025-12-20,Puja Shrestha,Groceries,Sugar 2kg,East,4,240,960,92.85
+ORD00094,2025-10-17,Sita Thapa,Stationery,Calculator,Central,2,900,1800,459.31
+ORD00095,2025-11-28,Rajesh Poudel,Clothing,Formal Shirt,East,6,2500,15000,1427.56
+ORD00096,2025-07-05,Manoj Gautam,Groceries,Sugar 2kg,West,2,240,480,84.18
+ORD00097,2025-10-03,Sarita Bhattarai,Groceries,Cooking Oil,North,5,320,1600,344.8
+ORD00098,2025-05-06,Ramesh Karki,Groceries,Biscuit Pack,Central,5,180,900,135.82
+ORD00099,2025-12-09,Prakash Joshi,Groceries,Cooking Oil,Central,8,320,2560,525.74
+ORD00100,2025-04-19,Sabina Magar,Electronics,Bluetooth Speaker,Central,6,2500,15000,1800.07
+ORD00101,2025-09-22,Suman KC,Stationery,Marker Pack,East,5,350,1750,353.98
+ORD00102,2025-05-04,Sarita Bhattarai,Furniture,Folding Table,North,8,5500,44000,8894.11
+ORD00103,2025-07-27,Puja Shrestha,Groceries,Rice 5kg,Central,2,650,1300,188.15
+ORD00104,2025-06-26,Kiran Lama,Clothing,Jacket,South,8,4500,36000,7263.51
+ORD00105,2025-05-09,Puja Shrestha,Stationery,Marker Pack,East,8,350,2800,390.88
+ORD00106,2025-12-20,Mina Rai,Furniture,Bookshelf,West,2,7000,14000,3408.07
+ORD00107,2025-09-26,Bina Acharya,Furniture,Folding Table,Central,5,5500,27500,6583.74
+ORD00108,2025-04-02,Nisha Tamang,Electronics,Keyboard,East,5,1800,9000,1170.42
+ORD00109,2025-01-28,Rekha Basnet,Clothing,Jeans,Central,5,2200,11000,990.15
+ORD00110,2025-10-21,Nisha Tamang,Furniture,Folding Table,North,2,5500,11000,2991.98
+ORD00111,2025-01-27,Dipak Bhandari,Groceries,Sugar 2kg,North,6,240,1440,173.61
+ORD00112,2025-10-23,Sita Thapa,Electronics,Wireless Mouse,West,7,1200,8400,1580.75
+ORD00113,2025-05-08,Anita Gurung,Furniture,Office Desk,South,5,15000,75000,7405.48
+ORD00114,2025-07-14,Manoj Gautam,Groceries,Biscuit Pack,North,4,180,720,180.47
+ORD00115,2025-11-14,Sita Thapa,Stationery,Calculator,South,7,900,6300,927.26
+ORD00116,2025-02-11,Mina Rai,Electronics,Keyboard,West,4,1800,7200,995.2
+ORD00117,2025-07-29,Manoj Gautam,Furniture,Office Desk,South,2,15000,30000,3433.12
+ORD00118,2025-12-28,Nisha Tamang,Groceries,Tea Pack,North,1,450,450,58.92
+ORD00119,2025-11-17,Sunil Khadka,Electronics,Keyboard,West,5,1800,9000,2279.9
+ORD00120,2025-05-17,Bikash Adhikari,Groceries,Rice 5kg,East,4,650,2600,578.45
+ORD00121,2025-10-19,Nisha Tamang,Electronics,Keyboard,North,5,1800,9000,1898.19
+ORD00122,2025-05-20,Ashok Oli,Electronics,Bluetooth Speaker,South,5,2500,12500,2924.27
+ORD00123,2025-08-10,Rajesh Poudel,Groceries,Sugar 2kg,South,2,240,480,101.55
+ORD00124,2025-12-12,Sunil Khadka,Stationery,Notebook,South,2,180,360,46.93
+ORD00125,2025-03-31,Sarita Bhattarai,Electronics,USB Hub,South,1,900,900,223.1
+ORD00126,2025-08-12,Sarita Bhattarai,Groceries,Tea Pack,East,3,450,1350,404.09
+ORD00127,2025-12-10,Anita Gurung,Groceries,Tea Pack,West,7,450,3150,482.98
+ORD00128,2025-07-25,Rekha Basnet,Stationery,File Folder,East,8,120,960,137.67
+ORD00129,2025-03-01,Prakash Joshi,Groceries,Rice 5kg,South,6,650,3900,528.56
+ORD00130,2025-04-07,Ashok Oli,Electronics,Headphones,Central,8,3200,25600,4375.41
+ORD00131,2025-04-15,Dipak Bhandari,Clothing,Formal Shirt,South,8,2500,20000,4943.96
+ORD00132,2025-09-06,Anita Gurung,Furniture,Bookshelf,East,8,7000,56000,15332.03
+ORD00133,2025-01-08,Rekha Basnet,Clothing,Jeans,North,3,2200,6600,979.21
+ORD00134,2025-03-02,Bikash Adhikari,Electronics,Keyboard,North,2,1800,3600,653.47
+ORD00135,2025-09-05,Sarita Bhattarai,Stationery,Calculator,West,5,900,4500,771.34
+ORD00136,2025-11-03,Ashok Oli,Groceries,Biscuit Pack,West,3,180,540,88.77
+ORD00137,2025-09-17,Dipak Bhandari,Electronics,USB Hub,East,7,900,6300,975.07
+ORD00138,2025-08-17,Rekha Basnet,Stationery,Marker Pack,North,8,350,2800,757.0
+ORD00139,2025-06-14,Suman KC,Stationery,Marker Pack,West,7,350,2450,441.43
+ORD00140,2025-07-30,Sita Thapa,Clothing,Formal Shirt,Central,4,2500,10000,2683.23
+ORD00141,2025-11-30,Bikash Adhikari,Groceries,Sugar 2kg,North,7,240,1680,499.72
+ORD00142,2025-08-14,Anita Gurung,Electronics,Keyboard,South,6,1800,10800,2930.41
+ORD00143,2025-12-02,Bikash Adhikari,Groceries,Rice 5kg,East,3,650,1950,331.88
+ORD00144,2025-07-23,Ramesh Karki,Groceries,Tea Pack,Central,6,450,2700,586.22
+ORD00145,2025-09-07,Rekha Basnet,Clothing,Formal Shirt,East,6,2500,15000,3268.44
+ORD00146,2025-05-28,Puja Shrestha,Clothing,T-Shirt,East,4,850,3400,744.11
+ORD00147,2025-12-22,Nisha Tamang,Groceries,Rice 5kg,East,2,650,1300,230.89
+ORD00148,2025-07-11,Kiran Lama,Electronics,USB Hub,West,1,900,900,130.09
+ORD00149,2025-04-03,Mina Rai,Furniture,Office Desk,West,7,15000,105000,21472.94
+ORD00150,2025-05-04,Sarita Bhattarai,Electronics,Headphones,South,7,3200,22400,4845.93
+ORD00151,2025-08-24,Dipak Bhandari,Furniture,Study Table,East,8,12000,96000,21152.55
+ORD00152,2025-06-26,Sunil Khadka,Groceries,Tea Pack,Central,3,450,1350,129.94
+ORD00153,2025-04-12,Prakash Joshi,Groceries,Tea Pack,North,8,450,3600,957.48
+ORD00154,2025-10-22,Nisha Tamang,Electronics,Keyboard,Central,7,1800,12600,2593.37
+ORD00155,2025-12-18,Sita Thapa,Electronics,Bluetooth Speaker,South,5,2500,12500,1022.27
+ORD00156,2025-06-30,Puja Shrestha,Groceries,Tea Pack,West,4,450,1800,384.4
+ORD00157,2025-11-18,Sita Thapa,Clothing,Jacket,Central,3,4500,13500,2945.9
+ORD00158,2025-02-16,Nisha Tamang,Groceries,Rice 5kg,Central,6,650,3900,940.36
+ORD00159,2025-10-04,Sabina Magar,Groceries,Cooking Oil,South,4,320,1280,139.62
+ORD00160,2025-09-04,Nisha Tamang,Clothing,Jacket,Central,3,4500,13500,1843.2
+ORD00161,2025-04-26,Prakash Joshi,Electronics,Bluetooth Speaker,South,2,2500,5000,554.83
+ORD00162,2025-10-02,Anita Gurung,Stationery,Notebook,North,7,180,1260,104.66
+ORD00163,2025-07-10,Anita Gurung,Stationery,Marker Pack,West,7,350,2450,639.28
+ORD00164,2025-04-24,Ramesh Karki,Groceries,Rice 5kg,North,6,650,3900,1097.29
+ORD00165,2025-01-20,Nisha Tamang,Stationery,File Folder,North,2,120,240,26.58
+ORD00166,2025-03-11,Prakash Joshi,Electronics,Wireless Mouse,North,4,1200,4800,1320.95
+ORD00167,2025-03-21,Kiran Lama,Stationery,Calculator,East,7,900,6300,1318.05
+ORD00168,2025-05-24,Sita Thapa,Groceries,Biscuit Pack,Central,7,180,1260,361.11
+ORD00169,2025-07-05,Anita Gurung,Furniture,Folding Table,Central,8,5500,44000,12721.37
+ORD00170,2025-04-08,Anita Gurung,Clothing,Jacket,North,1,4500,4500,754.16
+ORD00171,2025-06-20,Puja Shrestha,Electronics,Keyboard,West,1,1800,1800,164.03
+ORD00172,2025-10-11,Suman KC,Clothing,Jeans,South,2,2200,4400,1155.26
+ORD00173,2025-11-02,Aarav Sharma,Furniture,Study Table,Central,6,12000,72000,18026.0
+ORD00174,2025-02-26,Aarav Sharma,Furniture,Study Table,West,5,12000,60000,15340.38
+ORD00175,2025-01-09,Mina Rai,Electronics,USB Hub,Central,4,900,3600,754.37
+ORD00176,2025-02-02,Sarita Bhattarai,Electronics,Keyboard,North,7,1800,12600,2466.31
+ORD00177,2025-04-24,Bina Acharya,Stationery,Calculator,East,2,900,1800,322.99
+ORD00178,2025-01-16,Sita Thapa,Clothing,Jacket,North,8,4500,36000,7975.26
+ORD00179,2025-08-16,Ramesh Karki,Groceries,Sugar 2kg,East,2,240,480,90.17
+ORD00180,2025-05-21,Bina Acharya,Stationery,Calculator,South,3,900,2700,255.02
+ORD00181,2025-09-29,Nisha Tamang,Clothing,Jacket,North,7,4500,31500,9412.77
+ORD00182,2025-12-26,Anita Gurung,Clothing,Sports Shoes,South,7,3800,26600,2708.39
+ORD00183,2025-07-31,Rajesh Poudel,Furniture,Folding Table,North,8,5500,44000,12116.72
+ORD00184,2025-06-10,Dipak Bhandari,Groceries,Sugar 2kg,Central,2,240,480,71.41
+ORD00185,2025-02-13,Ramesh Karki,Furniture,Folding Table,North,2,5500,11000,1100.76
+ORD00186,2025-10-28,Rekha Basnet,Electronics,USB Hub,South,3,900,2700,546.48
+ORD00187,2025-12-07,Kiran Lama,Stationery,Notebook,East,7,180,1260,198.82
+ORD00188,2025-10-23,Ashok Oli,Stationery,Calculator,West,5,900,4500,708.13
+ORD00189,2025-06-29,Rekha Basnet,Furniture,Folding Table,Central,4,5500,22000,5860.81
+ORD00190,2025-10-15,Bina Acharya,Electronics,USB Hub,South,4,900,3600,927.32
+ORD00191,2025-05-20,Nisha Tamang,Clothing,T-Shirt,Central,5,850,4250,367.07
+ORD00192,2025-10-17,Prakash Joshi,Stationery,Notebook,East,3,180,540,146.54
+ORD00193,2025-04-21,Prakash Joshi,Furniture,Office Chair,North,2,8500,17000,4150.46
+ORD00194,2025-06-16,Sunil Khadka,Groceries,Tea Pack,South,3,450,1350,217.91
+ORD00195,2025-11-13,Sita Thapa,Electronics,Wireless Mouse,East,3,1200,3600,412.67
+ORD00196,2025-08-15,Kiran Lama,Stationery,File Folder,Central,7,120,840,156.95
+ORD00197,2025-02-26,Nisha Tamang,Furniture,Office Desk,South,2,15000,30000,4678.14
+ORD00198,2025-07-22,Bina Acharya,Groceries,Biscuit Pack,East,5,180,900,80.99
+ORD00199,2025-03-12,Dipak Bhandari,Electronics,Keyboard,Central,5,1800,9000,2591.74
+ORD00200,2025-08-09,Mina Rai,Stationery,Notebook,West,1,180,180,34.1
+ORD00201,2025-12-09,Sabina Magar,Groceries,Biscuit Pack,East,4,180,720,136.84
+ORD00202,2025-02-09,Rajesh Poudel,Groceries,Rice 5kg,South,7,650,4550,382.76
+ORD00203,2025-08-02,Nisha Tamang,Groceries,Biscuit Pack,East,7,180,1260,297.47
+ORD00204,2025-11-13,Manoj Gautam,Groceries,Rice 5kg,Central,6,650,3900,459.47
+ORD00205,2025-10-29,Prakash Joshi,Electronics,Bluetooth Speaker,South,2,2500,5000,667.65
+ORD00206,2025-04-24,Rajesh Poudel,Electronics,Bluetooth Speaker,West,5,2500,12500,3050.96
+ORD00207,2025-04-10,Sabina Magar,Electronics,Headphones,Central,2,3200,6400,1259.09
+ORD00208,2025-04-12,Mina Rai,Furniture,Study Table,South,2,12000,24000,2693.23
+ORD00209,2025-11-18,Sarita Bhattarai,Furniture,Office Chair,North,3,8500,25500,7376.75
+ORD00210,2025-10-17,Bina Acharya,Clothing,Sports Shoes,Central,8,3800,30400,6987.42
+ORD00211,2025-08-15,Nisha Tamang,Stationery,Pen Set,Central,8,250,2000,190.05
+ORD00212,2025-06-08,Manoj Gautam,Clothing,T-Shirt,North,6,850,5100,977.23
+ORD00213,2025-02-09,Ramesh Karki,Electronics,Wireless Mouse,South,6,1200,7200,1893.41
+ORD00214,2025-10-11,Sita Thapa,Clothing,Sports Shoes,North,7,3800,26600,4835.79
+ORD00215,2025-09-14,Bikash Adhikari,Clothing,Jeans,East,6,2200,13200,2812.94
+ORD00216,2025-02-13,Ashok Oli,Groceries,Rice 5kg,West,6,650,3900,1154.89
+ORD00217,2025-09-26,Ashok Oli,Electronics,Keyboard,South,8,1800,14400,4291.44
+ORD00218,2025-07-18,Kiran Lama,Furniture,Bookshelf,Central,6,7000,42000,11841.74
+ORD00219,2025-02-18,Rekha Basnet,Clothing,T-Shirt,North,6,850,5100,481.95
+ORD00220,2025-10-26,Bikash Adhikari,Stationery,Marker Pack,Central,3,350,1050,161.01
+ORD00221,2025-02-13,Nisha Tamang,Stationery,File Folder,South,3,120,360,75.93
+ORD00222,2025-12-17,Ashok Oli,Groceries,Tea Pack,East,3,450,1350,307.02
+ORD00223,2025-06-08,Mina Rai,Groceries,Biscuit Pack,West,6,180,1080,90.73
+ORD00224,2025-03-12,Bikash Adhikari,Stationery,File Folder,East,4,120,480,62.32
+ORD00225,2025-11-13,Bikash Adhikari,Stationery,Notebook,South,1,180,180,40.61
+ORD00226,2025-12-21,Bina Acharya,Groceries,Cooking Oil,West,3,320,960,114.99
+ORD00227,2025-05-02,Manoj Gautam,Groceries,Rice 5kg,South,7,650,4550,728.66
+ORD00228,2025-06-08,Sarita Bhattarai,Stationery,File Folder,West,4,120,480,94.79
+ORD00229,2025-05-25,Prakash Joshi,Stationery,Calculator,South,8,900,7200,1307.3
+ORD00230,2025-11-06,Bikash Adhikari,Clothing,Formal Shirt,Central,3,2500,7500,1947.87
+ORD00231,2025-02-22,Ashok Oli,Electronics,Bluetooth Speaker,East,6,2500,15000,3029.98
+ORD00232,2025-09-20,Bikash Adhikari,Stationery,Notebook,North,3,180,540,75.61
+ORD00233,2025-01-14,Kiran Lama,Electronics,Keyboard,East,8,1800,14400,3954.51
+ORD00234,2025-02-11,Sabina Magar,Groceries,Biscuit Pack,West,6,180,1080,142.42
+ORD00235,2025-11-29,Rajesh Poudel,Electronics,USB Hub,West,2,900,1800,476.31
+ORD00236,2025-08-30,Bikash Adhikari,Furniture,Office Chair,North,5,8500,42500,11977.65
+ORD00237,2025-01-10,Dipak Bhandari,Groceries,Biscuit Pack,West,1,180,180,50.27
+ORD00238,2025-05-28,Puja Shrestha,Furniture,Office Desk,Central,7,15000,105000,10968.42
+ORD00239,2025-11-15,Manoj Gautam,Electronics,Wireless Mouse,East,4,1200,4800,827.34
+ORD00240,2025-10-22,Puja Shrestha,Electronics,Bluetooth Speaker,West,1,2500,2500,547.58
+ORD00241,2025-05-04,Sunil Khadka,Stationery,File Folder,North,1,120,120,25.83
+ORD00242,2025-09-27,Rekha Basnet,Furniture,Office Chair,South,6,8500,51000,4839.36
+ORD00243,2025-08-29,Sita Thapa,Clothing,Sports Shoes,North,1,3800,3800,630.42
+ORD00244,2025-02-04,Sabina Magar,Stationery,Marker Pack,West,1,350,350,55.5
+ORD00245,2025-06-30,Rekha Basnet,Electronics,Headphones,Central,6,3200,19200,2099.52
+ORD00246,2025-03-11,Ramesh Karki,Furniture,Folding Table,North,8,5500,44000,9635.2
+ORD00247,2025-04-13,Sita Thapa,Electronics,USB Hub,Central,4,900,3600,322.69
+ORD00248,2025-10-06,Sarita Bhattarai,Stationery,Calculator,Central,7,900,6300,1874.92
+ORD00249,2025-01-25,Rajesh Poudel,Electronics,Keyboard,Central,5,1800,9000,1426.81
+ORD00250,2025-08-14,Prakash Joshi,Electronics,USB Hub,Central,7,900,6300,1736.83
+ORD00251,2025-09-23,Dipak Bhandari,Furniture,Folding Table,East,8,5500,44000,7075.92
+ORD00252,2025-04-03,Rekha Basnet,Groceries,Rice 5kg,Central,7,650,4550,967.06
+ORD00253,2025-06-01,Nisha Tamang,Stationery,Notebook,North,2,180,360,54.77
+ORD00254,2025-06-29,Manoj Gautam,Clothing,Formal Shirt,East,3,2500,7500,1738.11
+ORD00255,2025-01-30,Ramesh Karki,Stationery,Calculator,North,7,900,6300,884.53
+ORD00256,2025-03-15,Bina Acharya,Stationery,Calculator,North,3,900,2700,781.96
+ORD00257,2025-11-27,Sabina Magar,Electronics,Keyboard,Central,2,1800,3600,474.91
+ORD00258,2025-12-14,Manoj Gautam,Groceries,Biscuit Pack,Central,1,180,180,38.36
+ORD00259,2025-09-29,Sabina Magar,Stationery,File Folder,North,2,120,240,49.5
+ORD00260,2025-01-14,Mina Rai,Stationery,Marker Pack,North,4,350,1400,407.84
+ORD00261,2025-05-14,Manoj Gautam,Clothing,Formal Shirt,West,2,2500,5000,687.95
+ORD00262,2025-03-11,Ramesh Karki,Clothing,Jacket,North,8,4500,36000,4465.41
+ORD00263,2025-06-13,Sabina Magar,Furniture,Folding Table,East,2,5500,11000,2841.44
+ORD00264,2025-03-22,Mina Rai,Clothing,Sports Shoes,Central,5,3800,19000,5245.77
+ORD00265,2025-03-13,Puja Shrestha,Clothing,Jeans,North,2,2200,4400,1305.61
+ORD00266,2025-10-10,Bikash Adhikari,Electronics,USB Hub,South,6,900,5400,987.28
+ORD00267,2025-09-03,Ashok Oli,Electronics,Wireless Mouse,North,5,1200,6000,1005.57
+ORD00268,2025-06-12,Ramesh Karki,Groceries,Biscuit Pack,North,2,180,360,38.73
+ORD00269,2025-10-10,Sunil Khadka,Groceries,Biscuit Pack,West,6,180,1080,116.89
+ORD00270,2025-09-23,Bikash Adhikari,Furniture,Folding Table,Central,1,5500,5500,1445.98
+ORD00271,2025-04-26,Sabina Magar,Furniture,Study Table,South,6,12000,72000,20566.25
+ORD00272,2025-10-10,Dipak Bhandari,Stationery,Notebook,West,5,180,900,110.87
+ORD00273,2025-03-28,Sunil Khadka,Stationery,Calculator,South,2,900,1800,343.02
+ORD00274,2025-10-16,Sita Thapa,Furniture,Study Table,East,6,12000,72000,19105.68
+ORD00275,2025-10-20,Kiran Lama,Electronics,Wireless Mouse,South,5,1200,6000,1339.49
+ORD00276,2025-06-04,Sarita Bhattarai,Electronics,Bluetooth Speaker,West,5,2500,12500,2765.25
+ORD00277,2025-01-31,Mina Rai,Groceries,Tea Pack,North,8,450,3600,345.79
+ORD00278,2025-11-07,Bikash Adhikari,Groceries,Sugar 2kg,Central,8,240,1920,239.78
+ORD00279,2025-07-09,Ashok Oli,Stationery,Marker Pack,South,7,350,2450,266.48
+ORD00280,2025-05-17,Manoj Gautam,Electronics,USB Hub,West,4,900,3600,657.45
+ORD00281,2025-07-16,Bina Acharya,Furniture,Office Chair,North,1,8500,8500,1222.7
+ORD00282,2025-06-10,Suman KC,Furniture,Study Table,West,6,12000,72000,20550.62
+ORD00283,2025-06-07,Sarita Bhattarai,Groceries,Biscuit Pack,East,8,180,1440,273.21
+ORD00284,2025-04-21,Sunil Khadka,Electronics,Bluetooth Speaker,Central,8,2500,20000,5853.42
+ORD00285,2025-12-01,Sarita Bhattarai,Electronics,Wireless Mouse,Central,5,1200,6000,1133.26
+ORD00286,2025-05-16,Sabina Magar,Clothing,T-Shirt,North,2,850,1700,297.17
+ORD00287,2025-10-15,Suman KC,Stationery,Notebook,Central,7,180,1260,114.98
+ORD00288,2025-08-19,Rekha Basnet,Clothing,Jacket,Central,2,4500,9000,1484.97
+ORD00289,2025-02-19,Prakash Joshi,Clothing,Sports Shoes,Central,2,3800,7600,823.13
+ORD00290,2025-04-12,Bina Acharya,Stationery,Calculator,South,6,900,5400,1328.9
+ORD00291,2025-03-12,Rajesh Poudel,Groceries,Biscuit Pack,North,1,180,180,16.19
+ORD00292,2025-09-21,Bikash Adhikari,Clothing,Formal Shirt,Central,3,2500,7500,1600.33
+ORD00293,2025-11-12,Nisha Tamang,Clothing,Jacket,South,3,4500,13500,2247.08
+ORD00294,2025-06-03,Sarita Bhattarai,Stationery,Calculator,East,8,900,7200,1698.64
+ORD00295,2025-10-26,Nisha Tamang,Stationery,Marker Pack,East,2,350,700,206.9
+ORD00296,2025-10-24,Sunil Khadka,Clothing,Formal Shirt,West,5,2500,12500,3659.44
+ORD00297,2025-11-19,Bina Acharya,Electronics,Headphones,North,8,3200,25600,3008.32
+ORD00298,2025-12-25,Anita Gurung,Furniture,Study Table,West,1,12000,12000,2471.59
+ORD00299,2025-07-31,Suman KC,Electronics,Bluetooth Speaker,North,6,2500,15000,2581.97
+ORD00300,2025-02-01,Bikash Adhikari,Clothing,Sports Shoes,South,8,3800,30400,8269.4
+ORD00301,2025-09-02,Ashok Oli,Furniture,Office Desk,North,6,15000,90000,26962.83
+ORD00302,2025-06-25,Rekha Basnet,Stationery,Pen Set,Central,8,250,2000,561.33
+ORD00303,2025-05-07,Dipak Bhandari,Stationery,Calculator,South,8,900,7200,880.55
+ORD00304,2025-12-27,Suman KC,Stationery,Pen Set,North,5,250,1250,312.07
+ORD00305,2025-05-21,Nisha Tamang,Stationery,File Folder,East,6,120,720,146.38
+ORD00306,2025-07-22,Sabina Magar,Clothing,Sports Shoes,West,7,3800,26600,7369.99
+ORD00307,2025-02-10,Sabina Magar,Stationery,Notebook,North,5,180,900,261.15
+ORD00308,2025-10-03,Dipak Bhandari,Stationery,File Folder,South,4,120,480,59.74
+ORD00309,2025-10-28,Puja Shrestha,Stationery,Pen Set,West,2,250,500,107.72
+ORD00310,2025-01-27,Anita Gurung,Electronics,Headphones,North,4,3200,12800,2820.45
+ORD00311,2025-03-12,Aarav Sharma,Stationery,File Folder,South,2,120,240,55.17
+ORD00312,2025-04-13,Nisha Tamang,Furniture,Folding Table,Central,8,5500,44000,8141.7
+ORD00313,2025-04-29,Rekha Basnet,Stationery,Notebook,East,2,180,360,80.46
+ORD00314,2025-01-19,Prakash Joshi,Furniture,Folding Table,North,3,5500,16500,4710.14
+ORD00315,2025-10-18,Bina Acharya,Furniture,Bookshelf,East,1,7000,7000,574.27
+ORD00316,2025-10-06,Ashok Oli,Stationery,Marker Pack,North,8,350,2800,833.29
+ORD00317,2025-02-27,Rajesh Poudel,Furniture,Office Desk,West,8,15000,120000,16802.9
+ORD00318,2025-06-22,Nisha Tamang,Groceries,Tea Pack,South,3,450,1350,112.18
+ORD00319,2025-09-21,Rajesh Poudel,Furniture,Study Table,East,7,12000,84000,22002.77
+ORD00320,2025-09-02,Rajesh Poudel,Groceries,Rice 5kg,West,3,650,1950,577.14
+ORD00321,2025-05-17,Rajesh Poudel,Electronics,USB Hub,Central,7,900,6300,830.43
+ORD00322,2025-07-04,Puja Shrestha,Clothing,Sports Shoes,East,1,3800,3800,522.66
+ORD00323,2025-12-18,Ashok Oli,Electronics,Bluetooth Speaker,Central,5,2500,12500,1439.22
+ORD00324,2025-04-23,Bikash Adhikari,Electronics,USB Hub,North,6,900,5400,1162.18
+ORD00325,2025-10-09,Sarita Bhattarai,Furniture,Folding Table,South,6,5500,33000,5659.04
+ORD00326,2025-09-28,Sabina Magar,Furniture,Study Table,East,2,12000,24000,4694.68
+ORD00327,2025-09-16,Suman KC,Clothing,T-Shirt,South,1,850,850,222.98
+ORD00328,2025-09-24,Manoj Gautam,Clothing,Jeans,East,3,2200,6600,1004.43
+ORD00329,2025-09-19,Manoj Gautam,Furniture,Office Desk,East,8,15000,120000,12000.86
+ORD00330,2025-01-30,Rekha Basnet,Groceries,Cooking Oil,North,7,320,2240,404.31
+ORD00331,2025-01-02,Suman KC,Stationery,Notebook,South,7,180,1260,171.34
+ORD00332,2025-02-02,Rekha Basnet,Electronics,Wireless Mouse,East,7,1200,8400,1308.69
+ORD00333,2025-04-03,Bikash Adhikari,Electronics,Bluetooth Speaker,North,1,2500,2500,357.9
+ORD00334,2025-07-13,Prakash Joshi,Stationery,File Folder,East,8,120,960,260.46
+ORD00335,2025-10-03,Prakash Joshi,Clothing,Jeans,South,6,2200,13200,1400.51
+ORD00336,2025-06-02,Manoj Gautam,Furniture,Study Table,South,1,12000,12000,2956.31
+ORD00337,2025-05-07,Manoj Gautam,Groceries,Biscuit Pack,Central,7,180,1260,329.04
+ORD00338,2025-02-27,Sita Thapa,Furniture,Bookshelf,North,4,7000,28000,8014.45
+ORD00339,2025-02-21,Bina Acharya,Clothing,T-Shirt,East,4,850,3400,426.15
+ORD00340,2025-01-23,Prakash Joshi,Groceries,Biscuit Pack,North,1,180,180,24.09
+ORD00341,2025-01-29,Bikash Adhikari,Furniture,Office Desk,South,4,15000,60000,14757.89
+ORD00342,2025-12-11,Rajesh Poudel,Stationery,Pen Set,West,6,250,1500,310.57
+ORD00343,2025-05-21,Sita Thapa,Stationery,Pen Set,South,4,250,1000,170.98
+ORD00344,2025-01-25,Sabina Magar,Clothing,Jeans,North,7,2200,15400,3115.22
+ORD00345,2025-06-03,Prakash Joshi,Clothing,Jacket,West,7,4500,31500,5349.24
+ORD00346,2025-06-03,Bikash Adhikari,Clothing,Formal Shirt,North,4,2500,10000,2668.55
+ORD00347,2025-10-13,Ashok Oli,Electronics,Headphones,West,7,3200,22400,6561.25
+ORD00348,2025-11-28,Ramesh Karki,Groceries,Cooking Oil,North,5,320,1600,199.57
+ORD00349,2025-07-13,Bina Acharya,Stationery,Notebook,South,4,180,720,65.76
+ORD00350,2025-10-28,Rekha Basnet,Electronics,Wireless Mouse,West,4,1200,4800,1233.71
+ORD00351,2025-01-08,Suman KC,Groceries,Cooking Oil,West,6,320,1920,281.67
+ORD00352,2025-12-27,Suman KC,Electronics,Bluetooth Speaker,North,4,2500,10000,2330.38
+ORD00353,2025-07-14,Manoj Gautam,Furniture,Office Desk,South,6,15000,90000,22555.17
+ORD00354,2025-09-12,Manoj Gautam,Stationery,Marker Pack,East,5,350,1750,278.46
+ORD00355,2025-07-31,Sita Thapa,Groceries,Tea Pack,South,4,450,1800,290.8
+ORD00356,2025-10-27,Sunil Khadka,Furniture,Study Table,North,1,12000,12000,1648.44
+ORD00357,2025-07-14,Sunil Khadka,Stationery,Pen Set,West,4,250,1000,152.57
+ORD00358,2025-09-08,Sarita Bhattarai,Groceries,Biscuit Pack,North,6,180,1080,147.54
+ORD00359,2025-10-07,Sarita Bhattarai,Furniture,Bookshelf,West,3,7000,21000,2326.61
+ORD00360,2025-02-08,Sita Thapa,Clothing,T-Shirt,East,1,850,850,224.91
+ORD00361,2025-03-19,Aarav Sharma,Groceries,Cooking Oil,West,4,320,1280,121.54
+ORD00362,2025-11-23,Bina Acharya,Clothing,Formal Shirt,North,6,2500,15000,1399.49
+ORD00363,2025-07-30,Aarav Sharma,Groceries,Rice 5kg,East,1,650,650,128.11
+ORD00364,2025-12-24,Kiran Lama,Clothing,Jacket,West,5,4500,22500,1884.86
+ORD00365,2025-11-14,Ashok Oli,Electronics,Wireless Mouse,Central,3,1200,3600,478.85
+ORD00366,2025-07-27,Manoj Gautam,Stationery,Marker Pack,South,7,350,2450,238.59
+ORD00367,2025-02-11,Sita Thapa,Furniture,Study Table,East,5,12000,60000,13829.35
+ORD00368,2025-01-29,Aarav Sharma,Groceries,Sugar 2kg,West,7,240,1680,338.68
+ORD00369,2025-06-19,Sunil Khadka,Electronics,Bluetooth Speaker,East,7,2500,17500,3882.89
+ORD00370,2025-12-21,Sunil Khadka,Clothing,T-Shirt,North,4,850,3400,430.14
+ORD00371,2025-05-24,Rekha Basnet,Stationery,Notebook,South,2,180,360,83.01
+ORD00372,2025-04-17,Sunil Khadka,Electronics,Keyboard,West,6,1800,10800,901.2
+ORD00373,2025-05-04,Sunil Khadka,Groceries,Rice 5kg,North,5,650,3250,376.15
+ORD00374,2025-03-13,Ramesh Karki,Clothing,Jacket,South,7,4500,31500,7756.37
+ORD00375,2025-02-08,Rajesh Poudel,Stationery,Notebook,South,2,180,360,63.42
+ORD00376,2025-06-17,Aarav Sharma,Clothing,Sports Shoes,Central,7,3800,26600,7798.12
+ORD00377,2025-07-12,Kiran Lama,Groceries,Sugar 2kg,West,4,240,960,151.95
+ORD00378,2025-06-01,Puja Shrestha,Clothing,Formal Shirt,East,2,2500,5000,1249.38
+ORD00379,2025-11-21,Bikash Adhikari,Electronics,USB Hub,North,3,900,2700,441.72
+ORD00380,2025-06-07,Manoj Gautam,Stationery,Marker Pack,Central,2,350,700,70.09
+ORD00381,2025-08-09,Manoj Gautam,Stationery,Notebook,South,3,180,540,53.57
+ORD00382,2025-02-15,Sabina Magar,Clothing,Sports Shoes,South,7,3800,26600,2732.47
+ORD00383,2025-01-07,Nisha Tamang,Electronics,Headphones,North,6,3200,19200,5184.35
+ORD00384,2025-03-28,Prakash Joshi,Groceries,Rice 5kg,West,4,650,2600,535.16
+ORD00385,2025-03-16,Ramesh Karki,Furniture,Bookshelf,West,5,7000,35000,4866.73
+ORD00386,2025-02-09,Sabina Magar,Groceries,Tea Pack,Central,7,450,3150,459.73
+ORD00387,2025-03-11,Nisha Tamang,Furniture,Folding Table,East,4,5500,22000,3976.05
+ORD00388,2025-06-18,Manoj Gautam,Groceries,Tea Pack,Central,7,450,3150,809.22
+ORD00389,2025-11-05,Suman KC,Groceries,Biscuit Pack,North,3,180,540,78.89
+ORD00390,2025-05-30,Sarita Bhattarai,Stationery,Pen Set,South,7,250,1750,512.96
+ORD00391,2025-07-21,Sabina Magar,Furniture,Bookshelf,East,7,7000,49000,6941.64
+ORD00392,2025-10-09,Aarav Sharma,Clothing,Jeans,North,3,2200,6600,1517.85
+ORD00393,2025-02-05,Kiran Lama,Furniture,Folding Table,North,5,5500,27500,7229.25
+ORD00394,2025-03-20,Kiran Lama,Furniture,Bookshelf,North,4,7000,28000,3796.52
+ORD00395,2025-10-01,Ashok Oli,Electronics,Bluetooth Speaker,North,8,2500,20000,4161.87
+ORD00396,2025-10-02,Bina Acharya,Clothing,T-Shirt,East,6,850,5100,1195.23
+ORD00397,2025-11-10,Sita Thapa,Electronics,Keyboard,South,6,1800,10800,1259.22
+ORD00398,2025-02-20,Dipak Bhandari,Groceries,Tea Pack,West,7,450,3150,325.42
+ORD00399,2025-07-20,Manoj Gautam,Clothing,Sports Shoes,South,4,3800,15200,2706.68
+ORD00400,2025-09-05,Anita Gurung,Clothing,Jeans,Central,6,2200,13200,3953.33
+ORD00401,2025-03-14,Sabina Magar,Groceries,Rice 5kg,Central,2,650,1300,341.76
+ORD00402,2025-06-28,Sarita Bhattarai,Stationery,File Folder,East,4,120,480,93.43
+ORD00403,2025-01-23,Anita Gurung,Groceries,Sugar 2kg,East,6,240,1440,136.48
+ORD00404,2025-05-05,Ashok Oli,Stationery,Notebook,West,3,180,540,153.67
+ORD00405,2025-08-25,Puja Shrestha,Clothing,Jeans,North,6,2200,13200,2681.8
+ORD00406,2025-11-11,Suman KC,Furniture,Study Table,North,7,12000,84000,14030.36
+ORD00407,2025-04-20,Suman KC,Clothing,Formal Shirt,Central,7,2500,17500,1417.13
+ORD00408,2025-10-02,Mina Rai,Electronics,Headphones,Central,2,3200,6400,1637.7
+ORD00409,2025-12-10,Sarita Bhattarai,Stationery,Pen Set,South,8,250,2000,210.14
+ORD00410,2025-10-28,Anita Gurung,Stationery,Calculator,Central,7,900,6300,1351.27
+ORD00411,2025-12-28,Nisha Tamang,Stationery,File Folder,South,3,120,360,93.25
+ORD00412,2025-05-03,Nisha Tamang,Clothing,T-Shirt,East,3,850,2550,379.7
+ORD00413,2025-08-03,Bina Acharya,Furniture,Bookshelf,West,3,7000,21000,4040.01
+ORD00414,2025-11-22,Rekha Basnet,Clothing,Formal Shirt,West,7,2500,17500,2115.15
+ORD00415,2025-04-06,Rajesh Poudel,Clothing,Jeans,North,8,2200,17600,2526.37
+ORD00416,2025-09-06,Bikash Adhikari,Clothing,T-Shirt,West,6,850,5100,1475.97
+ORD00417,2025-09-09,Kiran Lama,Groceries,Biscuit Pack,North,8,180,1440,244.81
+ORD00418,2025-04-23,Nisha Tamang,Groceries,Cooking Oil,East,2,320,640,130.81
+ORD00419,2025-08-23,Sunil Khadka,Stationery,Pen Set,North,5,250,1250,146.26
+ORD00420,2025-05-18,Rekha Basnet,Clothing,Sports Shoes,Central,2,3800,7600,1565.58
+ORD00421,2025-08-06,Anita Gurung,Clothing,T-Shirt,West,8,850,6800,1361.34
+ORD00422,2025-02-14,Manoj Gautam,Stationery,Notebook,East,8,180,1440,198.46
+ORD00423,2025-11-09,Kiran Lama,Furniture,Study Table,West,6,12000,72000,19399.01
+ORD00424,2025-01-31,Sunil Khadka,Clothing,Jeans,Central,4,2200,8800,2278.99
+ORD00425,2025-12-27,Nisha Tamang,Clothing,Jacket,Central,3,4500,13500,2041.25
+ORD00426,2025-07-30,Sita Thapa,Clothing,Jacket,Central,2,4500,9000,988.47
+ORD00427,2025-06-14,Puja Shrestha,Furniture,Study Table,North,4,12000,48000,5384.33
+ORD00428,2025-07-12,Manoj Gautam,Groceries,Cooking Oil,East,5,320,1600,348.99
+ORD00429,2025-07-08,Manoj Gautam,Electronics,Bluetooth Speaker,North,5,2500,12500,2910.43
+ORD00430,2025-02-17,Manoj Gautam,Stationery,Calculator,Central,1,900,900,244.04
+ORD00431,2025-08-08,Suman KC,Electronics,Headphones,North,7,3200,22400,2865.47
+ORD00432,2025-10-23,Bikash Adhikari,Stationery,Marker Pack,South,5,350,1750,270.04
+ORD00433,2025-11-17,Manoj Gautam,Groceries,Tea Pack,East,1,450,450,40.55
+ORD00434,2025-08-08,Suman KC,Electronics,Keyboard,West,8,1800,14400,2598.25
+ORD00435,2025-07-04,Dipak Bhandari,Stationery,Pen Set,East,5,250,1250,125.67
+ORD00436,2025-06-06,Puja Shrestha,Stationery,Pen Set,North,1,250,250,41.8
+ORD00437,2025-02-09,Bikash Adhikari,Electronics,Wireless Mouse,South,1,1200,1200,152.34
+ORD00438,2025-12-23,Rajesh Poudel,Furniture,Office Desk,East,8,15000,120000,9845.18
+ORD00439,2025-07-16,Ramesh Karki,Groceries,Cooking Oil,East,8,320,2560,244.69
+ORD00440,2025-03-12,Prakash Joshi,Electronics,USB Hub,West,6,900,5400,1478.61
+ORD00441,2025-03-26,Manoj Gautam,Furniture,Office Chair,Central,1,8500,8500,1821.3
+ORD00442,2025-08-15,Suman KC,Furniture,Study Table,East,7,12000,84000,18105.08
+ORD00443,2025-07-16,Sabina Magar,Electronics,Keyboard,North,2,1800,3600,754.94
+ORD00444,2025-02-13,Puja Shrestha,Stationery,Pen Set,South,4,250,1000,140.93
+ORD00445,2025-12-20,Aarav Sharma,Clothing,Sports Shoes,Central,5,3800,19000,4776.09
+ORD00446,2025-06-01,Sita Thapa,Furniture,Office Desk,West,4,15000,60000,14671.54
+ORD00447,2025-11-23,Bina Acharya,Groceries,Sugar 2kg,East,2,240,480,63.86
+ORD00448,2025-03-09,Prakash Joshi,Clothing,T-Shirt,South,6,850,5100,1455.86
+ORD00449,2025-02-07,Aarav Sharma,Groceries,Tea Pack,South,3,450,1350,334.53
+ORD00450,2025-01-31,Prakash Joshi,Electronics,Wireless Mouse,South,5,1200,6000,764.78
+ORD00451,2025-07-25,Ramesh Karki,Stationery,Calculator,South,7,900,6300,1091.08
+ORD00452,2025-06-08,Ramesh Karki,Clothing,Sports Shoes,South,3,3800,11400,1607.89
+ORD00453,2025-11-21,Ramesh Karki,Furniture,Study Table,Central,6,12000,72000,11949.19
+ORD00454,2025-08-11,Anita Gurung,Groceries,Cooking Oil,North,1,320,320,42.81
+ORD00455,2025-12-03,Mina Rai,Clothing,Sports Shoes,East,1,3800,3800,562.57
+ORD00456,2025-06-27,Ashok Oli,Electronics,Keyboard,South,1,1800,1800,208.88
+ORD00457,2025-05-18,Anita Gurung,Stationery,Pen Set,East,6,250,1500,161.89
+ORD00458,2025-05-15,Sunil Khadka,Stationery,File Folder,East,5,120,600,117.15
+ORD00459,2025-10-18,Mina Rai,Groceries,Sugar 2kg,Central,6,240,1440,132.76
+ORD00460,2025-12-12,Anita Gurung,Furniture,Bookshelf,West,2,7000,14000,3874.35
+ORD00461,2025-01-07,Puja Shrestha,Clothing,T-Shirt,East,1,850,850,228.57
+ORD00462,2025-04-02,Sita Thapa,Groceries,Tea Pack,South,7,450,3150,889.72
+ORD00463,2025-06-13,Dipak Bhandari,Groceries,Cooking Oil,East,6,320,1920,258.47
+ORD00464,2025-01-27,Mina Rai,Clothing,Jacket,West,2,4500,9000,1714.04
+ORD00465,2025-08-27,Nisha Tamang,Clothing,T-Shirt,Central,7,850,5950,566.22
+ORD00466,2025-04-13,Nisha Tamang,Stationery,Notebook,South,8,180,1440,117.72
+ORD00467,2025-10-30,Sarita Bhattarai,Stationery,Calculator,West,4,900,3600,655.43
+ORD00468,2025-07-29,Aarav Sharma,Clothing,Jeans,West,3,2200,6600,537.26
+ORD00469,2025-01-01,Prakash Joshi,Clothing,Jacket,Central,1,4500,4500,1301.48
+ORD00470,2025-01-31,Bikash Adhikari,Electronics,Keyboard,Central,4,1800,7200,1240.99
+ORD00471,2025-09-24,Kiran Lama,Electronics,Wireless Mouse,Central,4,1200,4800,1331.54
+ORD00472,2025-11-23,Prakash Joshi,Groceries,Rice 5kg,East,2,650,1300,248.55
+ORD00473,2025-03-08,Puja Shrestha,Clothing,Sports Shoes,Central,1,3800,3800,667.65
+ORD00474,2025-06-17,Rajesh Poudel,Stationery,Marker Pack,North,7,350,2450,573.69
+ORD00475,2025-03-11,Sunil Khadka,Stationery,Pen Set,East,2,250,500,143.79
+ORD00476,2025-06-10,Kiran Lama,Furniture,Office Chair,East,3,8500,25500,4562.07
+ORD00477,2025-08-26,Dipak Bhandari,Clothing,Jacket,East,4,4500,18000,3229.59
+ORD00478,2025-12-23,Bina Acharya,Electronics,Keyboard,East,5,1800,9000,2356.25
+ORD00479,2025-05-08,Sabina Magar,Furniture,Bookshelf,North,3,7000,21000,2101.4
+ORD00480,2025-03-31,Aarav Sharma,Clothing,T-Shirt,North,5,850,4250,583.26
+ORD00481,2025-02-22,Bikash Adhikari,Groceries,Biscuit Pack,East,4,180,720,72.6
+ORD00482,2025-07-25,Sabina Magar,Electronics,Wireless Mouse,East,4,1200,4800,522.04
+ORD00483,2025-02-08,Aarav Sharma,Clothing,Sports Shoes,East,5,3800,19000,5354.85
+ORD00484,2025-06-19,Anita Gurung,Furniture,Folding Table,East,3,5500,16500,1653.88
+ORD00485,2025-08-10,Prakash Joshi,Groceries,Rice 5kg,North,3,650,1950,552.45
+ORD00486,2025-04-20,Mina Rai,Electronics,Bluetooth Speaker,Central,7,2500,17500,2065.31
+ORD00487,2025-11-14,Bina Acharya,Stationery,File Folder,West,3,120,360,31.54
+ORD00488,2025-09-03,Sita Thapa,Stationery,File Folder,East,7,120,840,230.34
+ORD00489,2025-11-26,Ashok Oli,Stationery,File Folder,West,3,120,360,62.0
+ORD00490,2025-07-03,Sarita Bhattarai,Clothing,T-Shirt,South,7,850,5950,1499.53
+ORD00491,2025-04-03,Aarav Sharma,Groceries,Tea Pack,Central,6,450,2700,446.7
+ORD00492,2025-05-24,Sita Thapa,Clothing,Jeans,North,1,2200,2200,609.55
+ORD00493,2025-02-21,Puja Shrestha,Clothing,Jacket,West,4,4500,18000,5296.96
+ORD00494,2025-04-23,Sunil Khadka,Stationery,Calculator,North,1,900,900,223.28
+ORD00495,2025-06-12,Sabina Magar,Stationery,Pen Set,South,3,250,750,99.03
+ORD00496,2025-04-07,Sarita Bhattarai,Electronics,USB Hub,South,3,900,2700,550.49
+ORD00497,2025-01-29,Puja Shrestha,Stationery,Pen Set,South,8,250,2000,176.7
+ORD00498,2025-11-11,Suman KC,Furniture,Office Chair,West,8,8500,68000,5450.23
+ORD00499,2025-03-17,Sunil Khadka,Stationery,Pen Set,West,6,250,1500,139.65
+ORD00500,2025-07-11,Prakash Joshi,Electronics,Headphones,South,6,3200,19200,5593.4
+ORD00501,2025-03-22,Kiran Lama,Electronics,USB Hub,North,5,900,4500,679.38
+ORD00502,2025-10-29,Mina Rai,Stationery,Pen Set,North,6,250,1500,193.67
+ORD00503,2025-01-01,Sunil Khadka,Stationery,Marker Pack,North,3,350,1050,125.05
+ORD00504,2025-11-10,Puja Shrestha,Clothing,T-Shirt,South,3,850,2550,541.94
+ORD00505,2025-02-09,Puja Shrestha,Electronics,Bluetooth Speaker,Central,3,2500,7500,1146.43
+ORD00506,2025-12-10,Rajesh Poudel,Stationery,Pen Set,North,2,250,500,130.38
+ORD00507,2025-02-04,Sabina Magar,Electronics,USB Hub,Central,4,900,3600,485.64
+ORD00508,2025-08-03,Mina Rai,Electronics,Wireless Mouse,North,1,1200,1200,197.89
+ORD00509,2025-02-21,Sarita Bhattarai,Groceries,Sugar 2kg,South,6,240,1440,288.18
+ORD00510,2025-01-18,Nisha Tamang,Furniture,Study Table,East,8,12000,96000,9236.74
+ORD00511,2025-03-29,Prakash Joshi,Stationery,Marker Pack,West,2,350,700,67.43
+ORD00512,2025-11-11,Sarita Bhattarai,Electronics,Headphones,East,2,3200,6400,987.83
+ORD00513,2025-02-21,Rajesh Poudel,Groceries,Cooking Oil,West,7,320,2240,256.62
+ORD00514,2025-06-02,Puja Shrestha,Furniture,Folding Table,East,5,5500,27500,6196.62
+ORD00515,2025-07-04,Aarav Sharma,Electronics,Bluetooth Speaker,North,8,2500,20000,2275.8
+ORD00516,2025-01-14,Suman KC,Electronics,USB Hub,West,8,900,7200,892.28
+ORD00517,2025-06-07,Prakash Joshi,Stationery,Notebook,North,8,180,1440,382.51
+ORD00518,2025-07-18,Mina Rai,Groceries,Tea Pack,Central,2,450,900,199.09
+ORD00519,2025-05-15,Manoj Gautam,Groceries,Tea Pack,North,3,450,1350,240.4
+ORD00520,2025-03-19,Anita Gurung,Stationery,Pen Set,East,5,250,1250,255.17
+ORD00521,2025-10-29,Puja Shrestha,Stationery,Calculator,South,7,900,6300,1849.4
+ORD00522,2025-12-18,Sarita Bhattarai,Electronics,Bluetooth Speaker,South,7,2500,17500,5117.67
+ORD00523,2025-01-18,Ashok Oli,Furniture,Folding Table,South,5,5500,27500,2677.68
+ORD00524,2025-08-18,Mina Rai,Clothing,Sports Shoes,West,3,3800,11400,1213.67
+ORD00525,2025-02-10,Kiran Lama,Furniture,Study Table,West,3,12000,36000,3217.99
+ORD00526,2025-02-04,Ramesh Karki,Furniture,Office Desk,North,5,15000,75000,11275.87
+ORD00527,2025-09-24,Manoj Gautam,Clothing,Formal Shirt,East,6,2500,15000,4026.86
+ORD00528,2025-03-18,Bikash Adhikari,Clothing,Sports Shoes,South,7,3800,26600,2786.46
+ORD00529,2025-10-16,Anita Gurung,Clothing,Sports Shoes,Central,2,3800,7600,2154.48
+ORD00530,2025-12-02,Sarita Bhattarai,Clothing,Jacket,South,7,4500,31500,4350.47
+ORD00531,2025-07-26,Bikash Adhikari,Clothing,Formal Shirt,South,1,2500,2500,294.71
+ORD00532,2025-06-19,Puja Shrestha,Clothing,Formal Shirt,East,1,2500,2500,417.69
+ORD00533,2025-06-05,Nisha Tamang,Groceries,Tea Pack,Central,6,450,2700,228.02
+ORD00534,2025-08-15,Rajesh Poudel,Groceries,Rice 5kg,Central,4,650,2600,284.87
+ORD00535,2025-04-19,Kiran Lama,Groceries,Biscuit Pack,North,2,180,360,43.68
+ORD00536,2025-03-23,Ramesh Karki,Clothing,Jacket,Central,1,4500,4500,870.12
+ORD00537,2025-09-26,Sunil Khadka,Clothing,Formal Shirt,East,3,2500,7500,1887.85
+ORD00538,2025-05-08,Sita Thapa,Furniture,Study Table,North,4,12000,48000,12678.47
+ORD00539,2025-08-26,Ashok Oli,Electronics,USB Hub,North,4,900,3600,504.99
+ORD00540,2025-11-01,Manoj Gautam,Electronics,Wireless Mouse,West,4,1200,4800,777.32
+ORD00541,2025-05-13,Ramesh Karki,Groceries,Biscuit Pack,Central,6,180,1080,168.19
+ORD00542,2025-10-20,Suman KC,Electronics,Bluetooth Speaker,West,1,2500,2500,289.6
+ORD00543,2025-09-20,Aarav Sharma,Furniture,Study Table,East,5,12000,60000,13400.95
+ORD00544,2025-01-05,Puja Shrestha,Groceries,Cooking Oil,Central,3,320,960,203.76
+ORD00545,2025-07-12,Sabina Magar,Clothing,Jacket,North,5,4500,22500,3897.84
+ORD00546,2025-09-24,Bina Acharya,Stationery,Pen Set,North,8,250,2000,292.94
+ORD00547,2025-12-06,Sabina Magar,Clothing,T-Shirt,South,1,850,850,163.65
+ORD00548,2025-02-25,Sarita Bhattarai,Clothing,Sports Shoes,East,5,3800,19000,2767.63
+ORD00549,2025-05-14,Nisha Tamang,Stationery,Marker Pack,West,6,350,2100,566.01
+ORD00550,2025-11-04,Prakash Joshi,Furniture,Office Desk,Central,4,15000,60000,16675.87
+ORD00551,2025-05-13,Kiran Lama,Furniture,Office Chair,North,8,8500,68000,20362.14
+ORD00552,2025-04-24,Rekha Basnet,Groceries,Rice 5kg,North,4,650,2600,404.29
+ORD00553,2025-12-03,Rekha Basnet,Stationery,Calculator,West,5,900,4500,1196.97
+ORD00554,2025-05-13,Rekha Basnet,Stationery,Notebook,West,8,180,1440,155.73
+ORD00555,2025-06-07,Kiran Lama,Stationery,Notebook,Central,4,180,720,113.88
+ORD00556,2025-03-02,Sarita Bhattarai,Stationery,Marker Pack,East,5,350,1750,318.55
+ORD00557,2025-04-10,Ashok Oli,Clothing,Sports Shoes,East,2,3800,7600,1397.55
+ORD00558,2025-03-19,Bikash Adhikari,Groceries,Biscuit Pack,West,5,180,900,153.8
+ORD00559,2025-04-03,Ramesh Karki,Stationery,File Folder,North,8,120,960,107.05
+ORD00560,2025-01-03,Manoj Gautam,Stationery,Pen Set,Central,6,250,1500,329.38
+ORD00561,2025-02-15,Bikash Adhikari,Furniture,Study Table,South,3,12000,36000,6757.45
+ORD00562,2025-09-02,Prakash Joshi,Groceries,Sugar 2kg,East,7,240,1680,292.97
+ORD00563,2025-01-08,Rajesh Poudel,Electronics,Headphones,South,4,3200,12800,3081.54
+ORD00564,2025-05-08,Puja Shrestha,Furniture,Office Chair,Central,1,8500,8500,1851.9
+ORD00565,2025-10-29,Nisha Tamang,Stationery,Pen Set,West,2,250,500,82.19
+ORD00566,2025-08-22,Ashok Oli,Electronics,Wireless Mouse,South,5,1200,6000,1731.97
+ORD00567,2025-03-10,Rajesh Poudel,Clothing,Jacket,North,7,4500,31500,8673.66
+ORD00568,2025-07-26,Aarav Sharma,Stationery,Pen Set,West,3,250,750,216.43
+ORD00569,2025-10-29,Ashok Oli,Furniture,Study Table,West,4,12000,48000,11591.85
+ORD00570,2025-11-24,Dipak Bhandari,Electronics,USB Hub,South,1,900,900,146.29
+ORD00571,2025-12-01,Aarav Sharma,Clothing,T-Shirt,East,1,850,850,191.79
+ORD00572,2025-10-08,Dipak Bhandari,Electronics,Bluetooth Speaker,North,8,2500,20000,3273.12
+ORD00573,2025-12-05,Anita Gurung,Furniture,Study Table,South,1,12000,12000,1754.95
+ORD00574,2025-02-23,Ashok Oli,Stationery,Calculator,South,3,900,2700,464.78
+ORD00575,2025-09-12,Suman KC,Electronics,USB Hub,South,2,900,1800,454.76
+ORD00576,2025-07-29,Nisha Tamang,Furniture,Bookshelf,West,4,7000,28000,4444.8
+ORD00577,2025-12-19,Sarita Bhattarai,Electronics,Headphones,Central,8,3200,25600,7175.13
+ORD00578,2025-02-26,Sunil Khadka,Furniture,Office Chair,North,1,8500,8500,1935.95
+ORD00579,2025-02-21,Dipak Bhandari,Furniture,Office Chair,West,2,8500,17000,4066.13
+ORD00580,2025-02-21,Mina Rai,Groceries,Tea Pack,East,5,450,2250,409.82
+ORD00581,2025-03-01,Anita Gurung,Stationery,Marker Pack,East,6,350,2100,364.81
+ORD00582,2025-08-13,Bina Acharya,Electronics,Keyboard,Central,3,1800,5400,822.45
+ORD00583,2025-07-25,Prakash Joshi,Electronics,USB Hub,North,6,900,5400,649.25
+ORD00584,2025-11-29,Mina Rai,Stationery,File Folder,East,8,120,960,245.74
+ORD00585,2025-10-30,Sarita Bhattarai,Furniture,Office Chair,South,3,8500,25500,2621.83
+ORD00586,2025-11-10,Aarav Sharma,Groceries,Cooking Oil,West,7,320,2240,563.17
+ORD00587,2025-08-14,Sita Thapa,Groceries,Sugar 2kg,East,2,240,480,132.13
+ORD00588,2025-12-14,Ashok Oli,Stationery,Marker Pack,South,1,350,350,82.25
+ORD00589,2025-12-19,Bina Acharya,Clothing,Jeans,East,6,2200,13200,2563.47
+ORD00590,2025-12-13,Prakash Joshi,Groceries,Cooking Oil,West,8,320,2560,399.53
+ORD00591,2025-03-22,Ashok Oli,Clothing,Sports Shoes,North,1,3800,3800,313.74
+ORD00592,2025-06-14,Puja Shrestha,Groceries,Cooking Oil,Central,2,320,640,157.0
+ORD00593,2025-07-13,Prakash Joshi,Stationery,Notebook,West,4,180,720,144.8
+ORD00594,2025-08-18,Ramesh Karki,Electronics,Bluetooth Speaker,North,8,2500,20000,5125.55
+ORD00595,2025-12-01,Aarav Sharma,Groceries,Tea Pack,East,2,450,900,266.17
+ORD00596,2025-01-01,Ramesh Karki,Groceries,Sugar 2kg,South,1,240,240,48.62
+ORD00597,2025-08-22,Rajesh Poudel,Clothing,Jacket,Central,4,4500,18000,4032.2
+ORD00598,2025-11-14,Bina Acharya,Electronics,Keyboard,North,8,1800,14400,2203.69
+ORD00599,2025-12-04,Puja Shrestha,Stationery,File Folder,East,2,120,240,24.34
+ORD00600,2025-07-11,Anita Gurung,Stationery,Marker Pack,East,5,350,1750,350.86
+ORD00601,2025-07-29,Anita Gurung,Furniture,Folding Table,Central,3,5500,16500,4303.27
+ORD00602,2025-07-21,Suman KC,Clothing,Jeans,North,4,2200,8800,937.76
+ORD00603,2025-01-24,Sunil Khadka,Furniture,Bookshelf,East,2,7000,14000,3452.02
+ORD00604,2025-01-03,Ashok Oli,Groceries,Sugar 2kg,East,3,240,720,210.27
+ORD00605,2025-04-01,Sunil Khadka,Clothing,Formal Shirt,West,8,2500,20000,5667.23
+ORD00606,2025-11-07,Rajesh Poudel,Furniture,Office Chair,South,7,8500,59500,13366.96
+ORD00607,2025-06-25,Nisha Tamang,Groceries,Sugar 2kg,North,4,240,960,134.58
+ORD00608,2025-09-20,Nisha Tamang,Furniture,Study Table,South,7,12000,84000,17854.65
+ORD00609,2025-11-16,Nisha Tamang,Stationery,Calculator,Central,4,900,3600,447.1
+ORD00610,2025-06-30,Rekha Basnet,Furniture,Study Table,North,6,12000,72000,17011.99
+ORD00611,2025-10-01,Nisha Tamang,Clothing,Sports Shoes,North,7,3800,26600,6073.67
+ORD00612,2025-03-16,Sita Thapa,Electronics,Headphones,East,2,3200,6400,547.58
+ORD00613,2025-12-16,Dipak Bhandari,Furniture,Bookshelf,West,3,7000,21000,6223.92
+ORD00614,2025-01-17,Sabina Magar,Electronics,USB Hub,North,4,900,3600,884.85
+ORD00615,2025-10-15,Prakash Joshi,Electronics,Headphones,West,4,3200,12800,3114.63
+ORD00616,2025-07-18,Kiran Lama,Clothing,Jacket,Central,1,4500,4500,1277.22
+ORD00617,2025-04-14,Bina Acharya,Clothing,T-Shirt,North,1,850,850,207.07
+ORD00618,2025-04-10,Nisha Tamang,Furniture,Bookshelf,North,4,7000,28000,7021.06
+ORD00619,2025-09-21,Anita Gurung,Furniture,Office Chair,North,3,8500,25500,7439.49
+ORD00620,2025-03-08,Mina Rai,Electronics,Bluetooth Speaker,South,5,2500,12500,2530.65
+ORD00621,2025-03-21,Sita Thapa,Stationery,Notebook,West,6,180,1080,197.2
+ORD00622,2025-11-17,Bina Acharya,Stationery,Calculator,Central,1,900,900,225.18
+ORD00623,2025-12-29,Rajesh Poudel,Groceries,Biscuit Pack,South,6,180,1080,103.72
+ORD00624,2025-03-23,Kiran Lama,Furniture,Study Table,South,2,12000,24000,6071.44
+ORD00625,2025-04-20,Rajesh Poudel,Clothing,Formal Shirt,Central,2,2500,5000,784.34
+ORD00626,2025-11-13,Ashok Oli,Stationery,Marker Pack,North,4,350,1400,404.69
+ORD00627,2025-08-17,Puja Shrestha,Clothing,T-Shirt,South,2,850,1700,386.18
+ORD00628,2025-06-14,Prakash Joshi,Clothing,Jeans,East,1,2200,2200,506.35
+ORD00629,2025-09-22,Sabina Magar,Groceries,Tea Pack,South,5,450,2250,192.23
+ORD00630,2025-11-30,Suman KC,Clothing,Formal Shirt,Central,8,2500,20000,1792.95
+ORD00631,2025-10-03,Rekha Basnet,Clothing,T-Shirt,East,2,850,1700,198.61
+ORD00632,2025-08-06,Anita Gurung,Electronics,Keyboard,West,4,1800,7200,1946.08
+ORD00633,2025-03-20,Aarav Sharma,Clothing,Formal Shirt,North,2,2500,5000,1221.58
+ORD00634,2025-04-02,Dipak Bhandari,Stationery,Notebook,South,2,180,360,34.6
+ORD00635,2025-07-28,Prakash Joshi,Electronics,Headphones,North,4,3200,12800,3589.34
+ORD00636,2025-12-11,Anita Gurung,Groceries,Sugar 2kg,South,6,240,1440,120.55
+ORD00637,2025-10-27,Sita Thapa,Electronics,Headphones,East,2,3200,6400,1576.39
+ORD00638,2025-12-18,Nisha Tamang,Stationery,Calculator,South,2,900,1800,258.78
+ORD00639,2025-12-05,Aarav Sharma,Electronics,USB Hub,North,8,900,7200,1180.16
+ORD00640,2025-07-20,Rekha Basnet,Furniture,Office Desk,Central,4,15000,60000,6600.24
+ORD00641,2025-01-06,Rekha Basnet,Furniture,Bookshelf,South,6,7000,42000,12206.3
+ORD00642,2025-11-02,Prakash Joshi,Furniture,Office Chair,South,1,8500,8500,689.41
+ORD00643,2025-06-26,Suman KC,Clothing,T-Shirt,North,5,850,4250,536.4
+ORD00644,2025-11-12,Dipak Bhandari,Clothing,Jeans,West,3,2200,6600,795.16
+ORD00645,2025-10-09,Manoj Gautam,Electronics,Keyboard,South,1,1800,1800,481.15
+ORD00646,2025-04-12,Sunil Khadka,Electronics,USB Hub,North,2,900,1800,243.27
+ORD00647,2025-05-01,Anita Gurung,Stationery,Marker Pack,Central,3,350,1050,239.07
+ORD00648,2025-08-19,Rajesh Poudel,Clothing,T-Shirt,South,4,850,3400,509.7
+ORD00649,2025-07-06,Rajesh Poudel,Stationery,Calculator,North,3,900,2700,551.94
+ORD00650,2025-04-24,Kiran Lama,Furniture,Office Chair,Central,6,8500,51000,6842.09
+ORD00651,2025-08-25,Manoj Gautam,Stationery,Pen Set,Central,6,250,1500,409.7
+ORD00652,2025-11-07,Ramesh Karki,Stationery,File Folder,Central,2,120,240,28.48
+ORD00653,2025-11-17,Ramesh Karki,Furniture,Office Desk,East,4,15000,60000,8274.7
+ORD00654,2025-10-24,Prakash Joshi,Electronics,Headphones,South,1,3200,3200,828.1
+ORD00655,2025-10-04,Sarita Bhattarai,Furniture,Office Chair,West,5,8500,42500,8481.44
+ORD00656,2025-10-29,Nisha Tamang,Stationery,File Folder,West,4,120,480,132.54
+ORD00657,2025-09-15,Aarav Sharma,Groceries,Biscuit Pack,West,2,180,360,60.23
+ORD00658,2025-04-02,Sunil Khadka,Clothing,Jeans,South,3,2200,6600,1175.91
+ORD00659,2025-09-07,Puja Shrestha,Furniture,Folding Table,East,6,5500,33000,2933.45
+ORD00660,2025-04-16,Ashok Oli,Stationery,Marker Pack,Central,4,350,1400,125.18
+ORD00661,2025-01-21,Rajesh Poudel,Groceries,Sugar 2kg,East,8,240,1920,525.97
+ORD00662,2025-10-19,Mina Rai,Clothing,Jacket,North,5,4500,22500,4664.23
+ORD00663,2025-07-12,Puja Shrestha,Groceries,Tea Pack,South,2,450,900,174.3
+ORD00664,2025-09-04,Bina Acharya,Groceries,Tea Pack,East,6,450,2700,505.2
+ORD00665,2025-02-09,Ashok Oli,Clothing,Jeans,Central,8,2200,17600,2049.23
+ORD00666,2025-11-05,Anita Gurung,Furniture,Study Table,West,3,12000,36000,4126.27
+ORD00667,2025-09-03,Sarita Bhattarai,Groceries,Tea Pack,West,2,450,900,167.34
+ORD00668,2025-01-23,Bikash Adhikari,Clothing,Jeans,South,7,2200,15400,1308.05
+ORD00669,2025-01-21,Sunil Khadka,Clothing,Jeans,West,3,2200,6600,1442.09
+ORD00670,2025-09-22,Prakash Joshi,Electronics,Keyboard,South,5,1800,9000,2546.44
+ORD00671,2025-04-21,Manoj Gautam,Clothing,T-Shirt,South,5,850,4250,1225.68
+ORD00672,2025-07-30,Bina Acharya,Groceries,Sugar 2kg,West,3,240,720,92.35
+ORD00673,2025-12-18,Rajesh Poudel,Clothing,Jeans,North,5,2200,11000,1285.89
+ORD00674,2025-07-17,Bikash Adhikari,Clothing,Sports Shoes,East,2,3800,7600,992.25
+ORD00675,2025-11-07,Anita Gurung,Electronics,Keyboard,West,7,1800,12600,3299.1
+ORD00676,2025-09-30,Ashok Oli,Groceries,Biscuit Pack,East,1,180,180,49.16
+ORD00677,2025-10-04,Aarav Sharma,Electronics,Bluetooth Speaker,North,3,2500,7500,2088.27
+ORD00678,2025-12-24,Ashok Oli,Clothing,Formal Shirt,North,6,2500,15000,4086.92
+ORD00679,2025-12-23,Sunil Khadka,Furniture,Folding Table,East,7,5500,38500,6048.89
+ORD00680,2025-04-30,Ramesh Karki,Groceries,Cooking Oil,Central,5,320,1600,295.95
+ORD00681,2025-01-03,Aarav Sharma,Clothing,Sports Shoes,South,7,3800,26600,3636.67
+ORD00682,2025-04-16,Rajesh Poudel,Clothing,T-Shirt,North,1,850,850,138.13
+ORD00683,2025-10-27,Dipak Bhandari,Stationery,Notebook,Central,3,180,540,93.82
+ORD00684,2025-12-15,Prakash Joshi,Clothing,Formal Shirt,West,6,2500,15000,3219.21
+ORD00685,2025-10-14,Rekha Basnet,Groceries,Biscuit Pack,North,8,180,1440,171.82
+ORD00686,2025-07-23,Bikash Adhikari,Stationery,Marker Pack,East,6,350,2100,525.68
+ORD00687,2025-09-18,Prakash Joshi,Furniture,Folding Table,Central,3,5500,16500,1684.01
+ORD00688,2025-11-22,Aarav Sharma,Clothing,Sports Shoes,East,1,3800,3800,438.38
+ORD00689,2025-05-15,Puja Shrestha,Furniture,Folding Table,Central,7,5500,38500,3826.55
+ORD00690,2025-07-25,Bina Acharya,Electronics,Headphones,South,1,3200,3200,766.04
+ORD00691,2025-03-31,Sarita Bhattarai,Stationery,Calculator,North,1,900,900,259.25
+ORD00692,2025-11-03,Ashok Oli,Electronics,Keyboard,South,5,1800,9000,1105.6
+ORD00693,2025-07-04,Puja Shrestha,Furniture,Office Desk,East,3,15000,45000,10272.84
+ORD00694,2025-06-30,Prakash Joshi,Furniture,Office Chair,North,5,8500,42500,10689.94
+ORD00695,2025-02-05,Ramesh Karki,Clothing,Jeans,South,1,2200,2200,532.67
+ORD00696,2025-05-22,Puja Shrestha,Stationery,Calculator,South,6,900,5400,844.8
+ORD00697,2025-05-14,Mina Rai,Furniture,Folding Table,North,7,5500,38500,7949.46
+ORD00698,2025-06-24,Anita Gurung,Clothing,T-Shirt,South,2,850,1700,324.19
+ORD00699,2025-07-13,Sunil Khadka,Stationery,Calculator,North,5,900,4500,1047.25
+ORD00700,2025-10-28,Aarav Sharma,Furniture,Bookshelf,North,8,7000,56000,12877.25
+ORD00701,2025-04-23,Puja Shrestha,Electronics,USB Hub,Central,2,900,1800,295.54
+ORD00702,2025-05-15,Puja Shrestha,Groceries,Tea Pack,Central,1,450,450,105.38
+ORD00703,2025-04-02,Sarita Bhattarai,Electronics,Bluetooth Speaker,Central,6,2500,15000,1450.9
+ORD00704,2025-12-16,Suman KC,Stationery,Pen Set,North,5,250,1250,150.27
+ORD00705,2025-04-16,Puja Shrestha,Furniture,Study Table,West,4,12000,48000,13056.16
+ORD00706,2025-02-24,Anita Gurung,Furniture,Office Desk,East,6,15000,90000,10288.71
+ORD00707,2025-10-05,Sita Thapa,Groceries,Biscuit Pack,North,1,180,180,44.66
+ORD00708,2025-10-22,Dipak Bhandari,Stationery,Calculator,North,6,900,5400,1016.9
+ORD00709,2025-10-23,Bikash Adhikari,Furniture,Office Desk,East,5,15000,75000,12565.01
+ORD00710,2025-01-17,Ashok Oli,Clothing,Formal Shirt,Central,8,2500,20000,5734.48
+ORD00711,2025-12-24,Ashok Oli,Groceries,Cooking Oil,North,8,320,2560,754.77
+ORD00712,2025-07-14,Sunil Khadka,Stationery,Notebook,East,1,180,180,41.09
+ORD00713,2025-05-15,Puja Shrestha,Stationery,Marker Pack,Central,5,350,1750,212.05
+ORD00714,2025-09-13,Kiran Lama,Groceries,Biscuit Pack,West,6,180,1080,173.34
+ORD00715,2025-05-24,Manoj Gautam,Groceries,Tea Pack,West,6,450,2700,723.47
+ORD00716,2025-05-19,Puja Shrestha,Clothing,Jeans,South,4,2200,8800,2280.27
+ORD00717,2025-03-18,Sarita Bhattarai,Groceries,Sugar 2kg,East,4,240,960,107.6
+ORD00718,2025-11-19,Ashok Oli,Furniture,Folding Table,South,8,5500,44000,4821.69
+ORD00719,2025-10-18,Sita Thapa,Stationery,File Folder,North,5,120,600,81.13
+ORD00720,2025-05-11,Sarita Bhattarai,Electronics,Keyboard,East,1,1800,1800,229.33
+ORD00721,2025-10-14,Rekha Basnet,Groceries,Tea Pack,Central,5,450,2250,358.68
+ORD00722,2025-12-14,Bina Acharya,Stationery,Notebook,West,7,180,1260,134.41
+ORD00723,2025-05-26,Sabina Magar,Clothing,Sports Shoes,Central,3,3800,11400,3368.27
+ORD00724,2025-07-15,Bina Acharya,Clothing,Formal Shirt,Central,8,2500,20000,5514.38
+ORD00725,2025-06-22,Kiran Lama,Groceries,Cooking Oil,South,3,320,960,212.09
+ORD00726,2025-06-25,Puja Shrestha,Clothing,Formal Shirt,Central,2,2500,5000,487.02
+ORD00727,2025-07-22,Dipak Bhandari,Stationery,Marker Pack,North,5,350,1750,373.07
+ORD00728,2025-04-05,Aarav Sharma,Stationery,Calculator,West,8,900,7200,1231.76
+ORD00729,2025-07-23,Anita Gurung,Furniture,Bookshelf,East,2,7000,14000,1768.56
+ORD00730,2025-07-23,Ashok Oli,Electronics,Bluetooth Speaker,East,1,2500,2500,214.5
+ORD00731,2025-07-19,Nisha Tamang,Electronics,USB Hub,West,3,900,2700,266.08
+ORD00732,2025-03-09,Ashok Oli,Furniture,Bookshelf,West,8,7000,56000,12198.24
+ORD00733,2025-06-16,Sarita Bhattarai,Electronics,Wireless Mouse,North,6,1200,7200,1938.82
+ORD00734,2025-12-24,Rekha Basnet,Clothing,Jacket,West,8,4500,36000,3950.11
+ORD00735,2025-11-22,Sunil Khadka,Clothing,Sports Shoes,North,8,3800,30400,6652.45
+ORD00736,2025-09-04,Rekha Basnet,Clothing,Sports Shoes,West,5,3800,19000,5319.3
+ORD00737,2025-05-14,Bikash Adhikari,Electronics,Bluetooth Speaker,Central,5,2500,12500,2005.9
+ORD00738,2025-08-29,Rekha Basnet,Electronics,Wireless Mouse,East,3,1200,3600,560.36
+ORD00739,2025-08-09,Nisha Tamang,Groceries,Sugar 2kg,South,5,240,1200,98.41
+ORD00740,2025-10-15,Kiran Lama,Furniture,Office Chair,North,6,8500,51000,6195.77
+ORD00741,2025-04-23,Dipak Bhandari,Furniture,Study Table,East,7,12000,84000,22029.33
+ORD00742,2025-09-30,Dipak Bhandari,Groceries,Cooking Oil,North,5,320,1600,228.21
+ORD00743,2025-02-26,Manoj Gautam,Furniture,Office Chair,South,3,8500,25500,2806.46
+ORD00744,2025-01-10,Bikash Adhikari,Groceries,Tea Pack,East,8,450,3600,436.73
+ORD00745,2025-05-25,Dipak Bhandari,Clothing,T-Shirt,West,3,850,2550,749.48
+ORD00746,2025-01-08,Sarita Bhattarai,Groceries,Rice 5kg,West,4,650,2600,259.59
+ORD00747,2025-09-13,Sabina Magar,Stationery,File Folder,North,5,120,600,151.72
+ORD00748,2025-03-16,Sita Thapa,Electronics,USB Hub,Central,2,900,1800,478.04
+ORD00749,2025-05-09,Prakash Joshi,Groceries,Rice 5kg,East,8,650,5200,623.75
+ORD00750,2025-08-15,Puja Shrestha,Electronics,Keyboard,East,7,1800,12600,3145.84
+ORD00751,2025-04-17,Sarita Bhattarai,Furniture,Folding Table,North,2,5500,11000,2141.16
+ORD00752,2025-01-22,Rekha Basnet,Stationery,Marker Pack,South,3,350,1050,229.34
+ORD00753,2025-04-12,Sabina Magar,Electronics,USB Hub,East,8,900,7200,1587.42
+ORD00754,2025-06-16,Aarav Sharma,Furniture,Office Chair,West,4,8500,34000,7454.16
+ORD00755,2025-05-05,Aarav Sharma,Stationery,Calculator,East,2,900,1800,300.74
+ORD00756,2025-02-15,Puja Shrestha,Clothing,Formal Shirt,West,3,2500,7500,1212.81
+ORD00757,2025-11-17,Sita Thapa,Groceries,Rice 5kg,East,6,650,3900,1110.67
+ORD00758,2025-04-30,Rajesh Poudel,Stationery,Pen Set,South,2,250,500,53.84
+ORD00759,2025-07-13,Sabina Magar,Stationery,File Folder,West,4,120,480,40.65
+ORD00760,2025-10-14,Nisha Tamang,Stationery,Notebook,South,8,180,1440,339.06
+ORD00761,2025-06-15,Manoj Gautam,Groceries,Cooking Oil,Central,3,320,960,191.61
+ORD00762,2025-03-21,Manoj Gautam,Clothing,Sports Shoes,Central,3,3800,11400,1084.74
+ORD00763,2025-11-23,Ashok Oli,Stationery,Calculator,North,6,900,5400,971.45
+ORD00764,2025-05-03,Rajesh Poudel,Furniture,Office Chair,East,6,8500,51000,12786.91
+ORD00765,2025-09-12,Rekha Basnet,Clothing,Formal Shirt,West,4,2500,10000,1952.95
+ORD00766,2025-06-14,Anita Gurung,Clothing,Jacket,East,6,4500,27000,4594.24
+ORD00767,2025-03-08,Mina Rai,Clothing,T-Shirt,East,1,850,850,224.18
+ORD00768,2025-01-17,Sunil Khadka,Furniture,Office Chair,North,8,8500,68000,8306.58
+ORD00769,2025-04-24,Bina Acharya,Groceries,Biscuit Pack,East,5,180,900,81.72
+ORD00770,2025-02-10,Manoj Gautam,Electronics,Keyboard,East,8,1800,14400,4093.18
+ORD00771,2025-12-29,Sita Thapa,Stationery,Calculator,South,7,900,6300,1643.33
+ORD00772,2025-06-05,Ramesh Karki,Stationery,Calculator,West,1,900,900,217.39
+ORD00773,2025-09-30,Prakash Joshi,Clothing,T-Shirt,West,2,850,1700,407.21
+ORD00774,2025-04-02,Rekha Basnet,Furniture,Office Desk,South,4,15000,60000,12324.37
+ORD00775,2025-12-26,Kiran Lama,Groceries,Rice 5kg,East,6,650,3900,890.71
+ORD00776,2025-12-03,Mina Rai,Furniture,Study Table,South,7,12000,84000,16046.72
+ORD00777,2025-10-09,Rajesh Poudel,Clothing,Formal Shirt,Central,6,2500,15000,4178.2
+ORD00778,2025-10-16,Rekha Basnet,Groceries,Sugar 2kg,West,6,240,1440,307.95
+ORD00779,2025-08-20,Manoj Gautam,Groceries,Biscuit Pack,North,5,180,900,143.28
+ORD00780,2025-09-23,Bikash Adhikari,Electronics,Wireless Mouse,Central,5,1200,6000,1266.41
+ORD00781,2025-06-11,Aarav Sharma,Electronics,USB Hub,Central,4,900,3600,458.14
+ORD00782,2025-08-24,Sabina Magar,Clothing,Sports Shoes,West,3,3800,11400,1148.47
+ORD00783,2025-05-08,Puja Shrestha,Furniture,Bookshelf,Central,6,7000,42000,11580.14
+ORD00784,2025-04-22,Ramesh Karki,Stationery,Notebook,Central,7,180,1260,258.54
+ORD00785,2025-12-20,Sunil Khadka,Groceries,Cooking Oil,East,8,320,2560,669.84
+ORD00786,2025-10-23,Prakash Joshi,Clothing,Jacket,East,1,4500,4500,1083.48
+ORD00787,2025-08-11,Kiran Lama,Electronics,USB Hub,East,6,900,5400,1477.19
+ORD00788,2025-11-20,Prakash Joshi,Furniture,Office Desk,East,1,15000,15000,3291.83
+ORD00789,2025-10-17,Bikash Adhikari,Stationery,Calculator,Central,1,900,900,135.22
+ORD00790,2025-07-21,Manoj Gautam,Clothing,Jeans,South,3,2200,6600,601.35
+ORD00791,2025-05-29,Prakash Joshi,Clothing,Sports Shoes,West,2,3800,7600,979.33
+ORD00792,2025-01-26,Rekha Basnet,Furniture,Bookshelf,North,2,7000,14000,2585.63
+ORD00793,2025-12-24,Bikash Adhikari,Stationery,Notebook,West,7,180,1260,239.91
+ORD00794,2025-11-30,Sunil Khadka,Groceries,Biscuit Pack,West,4,180,720,134.88
+ORD00795,2025-05-17,Kiran Lama,Clothing,Sports Shoes,Central,4,3800,15200,2026.3
+ORD00796,2025-08-05,Sabina Magar,Clothing,T-Shirt,Central,2,850,1700,387.23
+ORD00797,2025-01-13,Nisha Tamang,Furniture,Bookshelf,West,6,7000,42000,8847.42
+ORD00798,2025-08-14,Sita Thapa,Stationery,Calculator,West,8,900,7200,1563.12
+ORD00799,2025-02-13,Anita Gurung,Furniture,Bookshelf,East,3,7000,21000,5180.73
+ORD00800,2025-05-28,Aarav Sharma,Furniture,Office Desk,Central,3,15000,45000,12200.65
+ORD00801,2025-06-19,Suman KC,Electronics,USB Hub,South,8,900,7200,1322.37
+ORD00802,2025-11-15,Bikash Adhikari,Furniture,Study Table,East,5,12000,60000,12044.16
+ORD00803,2025-01-31,Nisha Tamang,Groceries,Biscuit Pack,West,1,180,180,24.52
+ORD00804,2025-01-05,Ramesh Karki,Clothing,Jacket,North,1,4500,4500,820.31
+ORD00805,2025-11-29,Prakash Joshi,Stationery,Marker Pack,West,2,350,700,58.94
+ORD00806,2025-09-06,Bina Acharya,Groceries,Biscuit Pack,South,2,180,360,100.39
+ORD00807,2025-08-23,Rekha Basnet,Electronics,Keyboard,East,4,1800,7200,1369.03
+ORD00808,2025-07-21,Mina Rai,Electronics,Keyboard,East,5,1800,9000,1380.47
+ORD00809,2025-05-01,Ashok Oli,Stationery,Marker Pack,Central,6,350,2100,456.86
+ORD00810,2025-01-16,Rekha Basnet,Electronics,USB Hub,Central,7,900,6300,1738.1
+ORD00811,2025-12-03,Bikash Adhikari,Furniture,Study Table,East,6,12000,72000,19971.26
+ORD00812,2025-10-21,Bikash Adhikari,Groceries,Biscuit Pack,North,4,180,720,123.71
+ORD00813,2025-03-09,Suman KC,Stationery,Calculator,West,6,900,5400,965.61
+ORD00814,2025-06-08,Ashok Oli,Clothing,Sports Shoes,West,4,3800,15200,4100.49
+ORD00815,2025-10-13,Rekha Basnet,Groceries,Cooking Oil,East,3,320,960,143.86
+ORD00816,2025-06-13,Kiran Lama,Furniture,Bookshelf,North,3,7000,21000,5039.11
+ORD00817,2025-04-07,Anita Gurung,Stationery,File Folder,West,5,120,600,68.06
+ORD00818,2025-11-10,Puja Shrestha,Furniture,Office Chair,South,5,8500,42500,9062.4
+ORD00819,2025-12-19,Sarita Bhattarai,Furniture,Study Table,West,1,12000,12000,1908.45
+ORD00820,2025-07-11,Mina Rai,Clothing,Sports Shoes,North,8,3800,30400,7193.98
+ORD00821,2025-04-26,Sita Thapa,Groceries,Sugar 2kg,North,3,240,720,83.54
+ORD00822,2025-12-10,Suman KC,Electronics,USB Hub,West,7,900,6300,812.46
+ORD00823,2025-09-08,Rajesh Poudel,Electronics,Keyboard,North,8,1800,14400,3899.06
+ORD00824,2025-11-08,Prakash Joshi,Furniture,Folding Table,Central,7,5500,38500,9654.54
+ORD00825,2025-08-20,Manoj Gautam,Groceries,Biscuit Pack,East,1,180,180,35.02
+ORD00826,2025-01-21,Rekha Basnet,Furniture,Office Desk,North,7,15000,105000,31126.49
+ORD00827,2025-07-23,Nisha Tamang,Clothing,T-Shirt,Central,4,850,3400,489.8
+ORD00828,2025-01-28,Ashok Oli,Groceries,Cooking Oil,West,7,320,2240,324.29
+ORD00829,2025-02-27,Mina Rai,Groceries,Sugar 2kg,South,2,240,480,114.71
+ORD00830,2025-08-19,Aarav Sharma,Clothing,Jeans,West,7,2200,15400,2633.14
+ORD00831,2025-02-16,Dipak Bhandari,Groceries,Biscuit Pack,Central,4,180,720,197.4
+ORD00832,2025-08-19,Sabina Magar,Furniture,Office Chair,East,2,8500,17000,1786.98
+ORD00833,2025-07-14,Sita Thapa,Clothing,Formal Shirt,West,3,2500,7500,1224.82
+ORD00834,2025-03-16,Mina Rai,Stationery,Calculator,East,3,900,2700,312.3
+ORD00835,2025-08-17,Nisha Tamang,Groceries,Tea Pack,West,5,450,2250,541.43
+ORD00836,2025-05-10,Aarav Sharma,Electronics,Keyboard,North,4,1800,7200,581.6
+ORD00837,2025-09-10,Puja Shrestha,Groceries,Sugar 2kg,West,1,240,240,51.3
+ORD00838,2025-02-10,Bina Acharya,Clothing,Formal Shirt,South,8,2500,20000,3404.67
+ORD00839,2025-10-13,Suman KC,Electronics,Keyboard,East,5,1800,9000,1947.14
+ORD00840,2025-01-19,Bikash Adhikari,Furniture,Study Table,East,1,12000,12000,2684.65
+ORD00841,2025-02-14,Sita Thapa,Clothing,Sports Shoes,East,5,3800,19000,2904.04
+ORD00842,2025-11-09,Bina Acharya,Groceries,Cooking Oil,South,3,320,960,218.75
+ORD00843,2025-07-04,Sita Thapa,Clothing,Jeans,East,8,2200,17600,4309.42
+ORD00844,2025-02-04,Kiran Lama,Stationery,Marker Pack,South,6,350,2100,582.66
+ORD00845,2025-12-22,Dipak Bhandari,Electronics,USB Hub,Central,8,900,7200,789.12
+ORD00846,2025-11-10,Sita Thapa,Clothing,Formal Shirt,East,4,2500,10000,2330.82
+ORD00847,2025-12-19,Bina Acharya,Clothing,Sports Shoes,Central,2,3800,7600,1416.68
+ORD00848,2025-10-22,Bina Acharya,Groceries,Biscuit Pack,Central,6,180,1080,148.1
+ORD00849,2025-11-20,Sarita Bhattarai,Furniture,Office Desk,North,8,15000,120000,23320.23
+ORD00850,2025-04-10,Aarav Sharma,Furniture,Office Desk,East,4,15000,60000,14153.35
+ORD00851,2025-04-17,Bina Acharya,Electronics,Bluetooth Speaker,North,2,2500,5000,1211.22
+ORD00852,2025-11-23,Suman KC,Groceries,Rice 5kg,East,6,650,3900,612.0
+ORD00853,2025-06-07,Nisha Tamang,Furniture,Bookshelf,South,5,7000,35000,8884.51
+ORD00854,2025-06-20,Rajesh Poudel,Clothing,Jacket,North,1,4500,4500,472.7
+ORD00855,2025-04-10,Rajesh Poudel,Clothing,Sports Shoes,Central,1,3800,3800,999.59
+ORD00856,2025-09-04,Bikash Adhikari,Groceries,Sugar 2kg,North,1,240,240,53.29
+ORD00857,2025-07-31,Sita Thapa,Clothing,Jacket,South,8,4500,36000,9089.19
+ORD00858,2025-01-10,Suman KC,Stationery,Calculator,South,6,900,5400,1091.55
+ORD00859,2025-05-24,Aarav Sharma,Stationery,Marker Pack,Central,2,350,700,205.32
+ORD00860,2025-07-19,Mina Rai,Groceries,Biscuit Pack,South,3,180,540,111.03
+ORD00861,2025-05-20,Kiran Lama,Electronics,USB Hub,East,6,900,5400,1275.29
+ORD00862,2025-06-04,Suman KC,Groceries,Cooking Oil,South,6,320,1920,344.49
+ORD00863,2025-01-20,Suman KC,Stationery,Pen Set,East,2,250,500,81.16
+ORD00864,2025-09-14,Bikash Adhikari,Groceries,Biscuit Pack,West,1,180,180,46.04
+ORD00865,2025-03-15,Anita Gurung,Stationery,File Folder,South,5,120,600,150.37
+ORD00866,2025-09-25,Anita Gurung,Furniture,Study Table,East,1,12000,12000,2172.73
+ORD00867,2025-01-24,Anita Gurung,Stationery,Notebook,South,2,180,360,55.2
+ORD00868,2025-04-18,Rajesh Poudel,Stationery,Notebook,West,5,180,900,198.49
+ORD00869,2025-08-14,Anita Gurung,Furniture,Bookshelf,Central,5,7000,35000,6898.52
+ORD00870,2025-11-15,Rekha Basnet,Furniture,Study Table,South,5,12000,60000,6310.88
+ORD00871,2025-05-19,Bikash Adhikari,Electronics,Keyboard,Central,6,1800,10800,2169.29
+ORD00872,2025-11-10,Rajesh Poudel,Clothing,Jeans,South,3,2200,6600,631.44
+ORD00873,2025-12-12,Sita Thapa,Groceries,Rice 5kg,East,3,650,1950,168.44
+ORD00874,2025-04-02,Bina Acharya,Groceries,Rice 5kg,South,2,650,1300,225.97
+ORD00875,2025-04-12,Rekha Basnet,Groceries,Biscuit Pack,East,6,180,1080,160.64
+ORD00876,2025-12-24,Manoj Gautam,Groceries,Biscuit Pack,East,3,180,540,54.24
+ORD00877,2025-04-25,Bikash Adhikari,Groceries,Tea Pack,South,8,450,3600,660.67
+ORD00878,2025-12-07,Rajesh Poudel,Stationery,Marker Pack,Central,7,350,2450,294.83
+ORD00879,2025-02-27,Sabina Magar,Groceries,Sugar 2kg,North,1,240,240,22.65
+ORD00880,2025-11-06,Sunil Khadka,Groceries,Cooking Oil,West,5,320,1600,398.32
+ORD00881,2025-02-24,Rajesh Poudel,Clothing,T-Shirt,South,7,850,5950,1546.18
+ORD00882,2025-07-31,Puja Shrestha,Electronics,USB Hub,South,8,900,7200,1210.89
+ORD00883,2025-07-16,Ramesh Karki,Furniture,Office Desk,Central,3,15000,45000,13241.53
+ORD00884,2025-08-11,Sunil Khadka,Furniture,Office Desk,Central,7,15000,105000,26517.65
+ORD00885,2025-02-09,Sunil Khadka,Clothing,Jeans,North,3,2200,6600,1490.11
+ORD00886,2025-02-19,Manoj Gautam,Electronics,Headphones,West,8,3200,25600,3880.53
+ORD00887,2025-12-17,Bina Acharya,Stationery,File Folder,North,2,120,240,50.79
+ORD00888,2025-03-13,Sunil Khadka,Stationery,File Folder,East,1,120,120,11.99
+ORD00889,2025-07-19,Bina Acharya,Furniture,Study Table,South,8,12000,96000,18900.12
+ORD00890,2025-06-12,Nisha Tamang,Groceries,Cooking Oil,South,4,320,1280,294.32
+ORD00891,2025-10-26,Aarav Sharma,Stationery,File Folder,South,6,120,720,214.46
+ORD00892,2025-02-01,Sabina Magar,Clothing,Formal Shirt,South,3,2500,7500,2006.63
+ORD00893,2025-05-25,Aarav Sharma,Electronics,Wireless Mouse,West,6,1200,7200,749.76
+ORD00894,2025-12-31,Prakash Joshi,Groceries,Biscuit Pack,North,7,180,1260,274.11
+ORD00895,2025-09-01,Bikash Adhikari,Groceries,Sugar 2kg,West,4,240,960,216.72
+ORD00896,2025-03-20,Nisha Tamang,Clothing,Formal Shirt,West,6,2500,15000,3971.88
+ORD00897,2025-03-15,Sarita Bhattarai,Furniture,Office Chair,North,2,8500,17000,3784.98
+ORD00898,2025-08-01,Manoj Gautam,Furniture,Office Chair,South,3,8500,25500,5642.98
+ORD00899,2025-08-06,Rekha Basnet,Groceries,Biscuit Pack,North,3,180,540,97.18
+ORD00900,2025-11-06,Aarav Sharma,Groceries,Tea Pack,South,4,450,1800,217.57
+ORD00901,2025-10-07,Sunil Khadka,Groceries,Cooking Oil,Central,5,320,1600,272.61
+ORD00902,2025-02-27,Sunil Khadka,Electronics,Wireless Mouse,North,8,1200,9600,2256.71
+ORD00903,2025-02-10,Ashok Oli,Electronics,Keyboard,South,5,1800,9000,1640.57
+ORD00904,2025-12-06,Ramesh Karki,Electronics,Keyboard,South,8,1800,14400,3149.94
+ORD00905,2025-10-01,Aarav Sharma,Clothing,Jacket,North,1,4500,4500,1254.55
+ORD00906,2025-06-19,Kiran Lama,Groceries,Biscuit Pack,Central,8,180,1440,297.03
+ORD00907,2025-11-02,Nisha Tamang,Stationery,Marker Pack,South,3,350,1050,92.16
+ORD00908,2025-10-21,Sita Thapa,Stationery,Notebook,Central,8,180,1440,298.36
+ORD00909,2025-03-06,Ashok Oli,Clothing,T-Shirt,East,5,850,4250,793.25
+ORD00910,2025-05-21,Dipak Bhandari,Stationery,Marker Pack,East,3,350,1050,226.25
+ORD00911,2025-03-19,Manoj Gautam,Electronics,Headphones,Central,3,3200,9600,2690.2
+ORD00912,2025-09-28,Sita Thapa,Furniture,Bookshelf,Central,4,7000,28000,5227.1
+ORD00913,2025-07-31,Prakash Joshi,Electronics,Keyboard,West,3,1800,5400,1427.09
+ORD00914,2025-06-26,Sita Thapa,Groceries,Cooking Oil,Central,4,320,1280,265.1
+ORD00915,2025-09-01,Nisha Tamang,Electronics,Wireless Mouse,North,3,1200,3600,655.5
+ORD00916,2025-07-19,Sarita Bhattarai,Clothing,Jeans,Central,7,2200,15400,3547.73
+ORD00917,2025-08-18,Prakash Joshi,Furniture,Office Desk,Central,7,15000,105000,8674.04
+ORD00918,2025-11-23,Sabina Magar,Clothing,T-Shirt,North,2,850,1700,479.22
+ORD00919,2025-02-20,Dipak Bhandari,Clothing,Jacket,South,6,4500,27000,3765.74
+ORD00920,2025-10-29,Suman KC,Groceries,Sugar 2kg,South,4,240,960,231.89
+ORD00921,2025-12-11,Aarav Sharma,Stationery,Pen Set,East,6,250,1500,300.71
+ORD00922,2025-12-17,Manoj Gautam,Electronics,Bluetooth Speaker,Central,2,2500,5000,977.79
+ORD00923,2025-01-13,Bina Acharya,Furniture,Bookshelf,East,5,7000,35000,4286.71
+ORD00924,2025-11-23,Anita Gurung,Electronics,Headphones,East,4,3200,12800,3700.58
+ORD00925,2025-11-28,Sunil Khadka,Electronics,Headphones,West,3,3200,9600,1562.02
+ORD00926,2025-12-05,Ramesh Karki,Electronics,Keyboard,North,5,1800,9000,1303.25
+ORD00927,2025-02-07,Dipak Bhandari,Stationery,File Folder,East,6,120,720,98.36
+ORD00928,2025-05-13,Dipak Bhandari,Groceries,Sugar 2kg,West,6,240,1440,430.72
+ORD00929,2025-04-13,Bina Acharya,Groceries,Rice 5kg,North,8,650,5200,1536.46
+ORD00930,2025-08-09,Suman KC,Furniture,Folding Table,South,2,5500,11000,1228.17
+ORD00931,2025-02-07,Ramesh Karki,Electronics,Bluetooth Speaker,South,5,2500,12500,1284.04
+ORD00932,2025-03-18,Aarav Sharma,Stationery,File Folder,East,1,120,120,33.27
+ORD00933,2025-07-20,Sunil Khadka,Groceries,Tea Pack,East,3,450,1350,315.92
+ORD00934,2025-02-05,Rekha Basnet,Clothing,Formal Shirt,West,8,2500,20000,3518.65
+ORD00935,2025-10-02,Sabina Magar,Electronics,Bluetooth Speaker,Central,8,2500,20000,2133.3
+ORD00936,2025-11-28,Ramesh Karki,Stationery,File Folder,Central,1,120,120,26.29
+ORD00937,2025-05-29,Suman KC,Clothing,Jacket,West,2,4500,9000,2385.54
+ORD00938,2025-06-03,Prakash Joshi,Clothing,T-Shirt,East,7,850,5950,1340.9
+ORD00939,2025-08-13,Suman KC,Stationery,File Folder,West,2,120,240,65.94
+ORD00940,2025-10-31,Puja Shrestha,Electronics,Keyboard,North,1,1800,1800,429.02
+ORD00941,2025-08-19,Aarav Sharma,Groceries,Rice 5kg,East,5,650,3250,617.27
+ORD00942,2025-01-22,Prakash Joshi,Stationery,Notebook,East,6,180,1080,273.58
+ORD00943,2025-10-02,Bikash Adhikari,Furniture,Office Desk,South,8,15000,120000,34418.37
+ORD00944,2025-09-08,Aarav Sharma,Furniture,Office Chair,North,1,8500,8500,2055.31
+ORD00945,2025-03-08,Aarav Sharma,Clothing,T-Shirt,West,4,850,3400,796.57
+ORD00946,2025-03-29,Sunil Khadka,Electronics,USB Hub,East,2,900,1800,324.65
+ORD00947,2025-11-12,Puja Shrestha,Electronics,Wireless Mouse,East,8,1200,9600,2024.59
+ORD00948,2025-12-14,Prakash Joshi,Furniture,Folding Table,Central,6,5500,33000,8531.64
+ORD00949,2025-04-20,Sita Thapa,Electronics,Headphones,South,3,3200,9600,1447.2
+ORD00950,2025-03-14,Kiran Lama,Furniture,Bookshelf,West,2,7000,14000,1491.9
+ORD00951,2025-10-25,Sita Thapa,Stationery,Calculator,West,3,900,2700,476.56
+ORD00952,2025-01-09,Sarita Bhattarai,Electronics,Headphones,East,7,3200,22400,5624.32
+ORD00953,2025-12-28,Sunil Khadka,Electronics,Wireless Mouse,Central,3,1200,3600,1021.5
+ORD00954,2025-11-24,Dipak Bhandari,Groceries,Sugar 2kg,South,3,240,720,90.26
+ORD00955,2025-11-09,Sita Thapa,Groceries,Sugar 2kg,South,4,240,960,274.92
+ORD00956,2025-06-04,Sabina Magar,Furniture,Folding Table,North,2,5500,11000,2397.8
+ORD00957,2025-09-29,Anita Gurung,Electronics,Headphones,South,4,3200,12800,1564.4
+ORD00958,2025-11-17,Suman KC,Stationery,Calculator,Central,4,900,3600,655.66
+ORD00959,2025-12-17,Sarita Bhattarai,Electronics,Keyboard,North,2,1800,3600,918.92
+ORD00960,2025-07-06,Nisha Tamang,Furniture,Study Table,West,1,12000,12000,1102.63
+ORD00961,2025-08-21,Sita Thapa,Groceries,Tea Pack,East,6,450,2700,582.39
+ORD00962,2025-01-15,Sarita Bhattarai,Electronics,Headphones,South,3,3200,9600,1101.79
+ORD00963,2025-10-31,Sunil Khadka,Electronics,Wireless Mouse,Central,4,1200,4800,1145.8
+ORD00964,2025-02-26,Rajesh Poudel,Groceries,Cooking Oil,West,6,320,1920,250.78
+ORD00965,2025-07-12,Puja Shrestha,Electronics,Keyboard,East,7,1800,12600,3419.32
+ORD00966,2025-08-12,Bikash Adhikari,Groceries,Biscuit Pack,West,8,180,1440,132.41
+ORD00967,2025-03-11,Manoj Gautam,Clothing,Formal Shirt,West,3,2500,7500,1239.1
+ORD00968,2025-01-17,Sunil Khadka,Stationery,Marker Pack,East,4,350,1400,215.45
+ORD00969,2025-08-23,Kiran Lama,Stationery,Pen Set,West,2,250,500,133.68
+ORD00970,2025-11-23,Bina Acharya,Stationery,Pen Set,West,5,250,1250,266.0
+ORD00971,2025-09-25,Sarita Bhattarai,Clothing,Sports Shoes,West,4,3800,15200,1505.17
+ORD00972,2025-08-08,Puja Shrestha,Clothing,Formal Shirt,West,8,2500,20000,2828.35
+ORD00973,2025-10-30,Bikash Adhikari,Stationery,File Folder,South,4,120,480,132.58
+ORD00974,2025-08-29,Ashok Oli,Electronics,Bluetooth Speaker,East,1,2500,2500,222.03
+ORD00975,2025-12-23,Anita Gurung,Groceries,Biscuit Pack,North,7,180,1260,233.65
+ORD00976,2025-01-07,Kiran Lama,Groceries,Cooking Oil,West,2,320,640,129.83
+ORD00977,2025-02-16,Aarav Sharma,Furniture,Bookshelf,North,5,7000,35000,4640.78
+ORD00978,2025-10-26,Aarav Sharma,Stationery,Pen Set,North,8,250,2000,537.49
+ORD00979,2025-07-09,Manoj Gautam,Groceries,Cooking Oil,East,7,320,2240,270.34
+ORD00980,2025-06-01,Kiran Lama,Electronics,Bluetooth Speaker,Central,6,2500,15000,2952.04
+ORD00981,2025-02-11,Bina Acharya,Clothing,Sports Shoes,Central,4,3800,15200,3850.04
+ORD00982,2025-02-26,Prakash Joshi,Electronics,Headphones,Central,6,3200,19200,5286.82
+ORD00983,2025-03-31,Rekha Basnet,Groceries,Biscuit Pack,East,1,180,180,28.88
+ORD00984,2025-05-03,Rekha Basnet,Clothing,Jeans,East,3,2200,6600,1952.78
+ORD00985,2025-04-26,Rajesh Poudel,Groceries,Biscuit Pack,Central,4,180,720,176.9
+ORD00986,2025-02-02,Sabina Magar,Stationery,Calculator,Central,7,900,6300,888.12
+ORD00987,2025-09-30,Rekha Basnet,Groceries,Sugar 2kg,Central,2,240,480,88.05
+ORD00988,2025-12-21,Ramesh Karki,Groceries,Biscuit Pack,West,6,180,1080,276.46
+ORD00989,2025-04-02,Nisha Tamang,Groceries,Rice 5kg,East,2,650,1300,215.74
+ORD00990,2025-03-17,Sarita Bhattarai,Electronics,Keyboard,West,5,1800,9000,941.81
+ORD00991,2025-12-16,Rekha Basnet,Furniture,Office Desk,West,1,15000,15000,2167.46
+ORD00992,2025-11-27,Aarav Sharma,Groceries,Tea Pack,Central,7,450,3150,559.6
+ORD00993,2025-04-29,Ashok Oli,Furniture,Office Chair,Central,1,8500,8500,2310.25
+ORD00994,2025-06-17,Sarita Bhattarai,Groceries,Biscuit Pack,South,6,180,1080,242.21
+ORD00995,2025-10-18,Bikash Adhikari,Clothing,Sports Shoes,Central,8,3800,30400,5495.15
+ORD00996,2025-05-28,Sita Thapa,Furniture,Bookshelf,West,4,7000,28000,5222.94
+ORD00997,2025-11-13,Mina Rai,Stationery,Marker Pack,South,8,350,2800,813.03
+ORD00998,2025-12-21,Bikash Adhikari,Stationery,Pen Set,West,3,250,750,198.49
+ORD00999,2025-10-22,Bikash Adhikari,Furniture,Office Chair,North,1,8500,8500,2538.36
+ORD01000,2025-12-29,Sita Thapa,Stationery,Marker Pack,Central,3,350,1050,131.39
